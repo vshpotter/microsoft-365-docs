@@ -198,7 +198,7 @@ You can create DLP policies to protect sensitive information with your Microsoft
 This section introduces you to the DLP policy creation process. DLP policies are a powerful tool. Make sure you:
 
 - Understand the data you're protecting and the goals you want to achieve.
-- Take time to design a policy before you implement it. You want to avoid any unintended issues. We don't you create a policy, and then only tune the policy by trial-and-error.
+- Take time to design a policy before you implement it. You want to avoid any unintended issues. We don't recommend you create a policy, and then only tune the policy by trial-and-error.
 - Work through [Data loss prevention - Before you begin](/purview/dlp-learn-about-dlp#before-you-begin) before you start designing a policy. This step helps you understand the concepts and the tools you use to create and manage DLP policies.
 
 #### 1. Open the Microsoft Purview portal

@@ -51,7 +51,7 @@ The blueprint provides:
 
 | Deployment model | Description |
 |---|---|
-|**Address oversharing in Microsoft 365 Copilot**<br/><br/> [![Address internal oversharing concerns in Microsoft 365 Copilot](media/microsoft-365-copilot-blueprint-oversharing/blueprint-oversharing-copilot.png)](https://aka.ms/Copilot/OversharingBlueprintPDF) <br/> Updated November 2024 | Use this deployment model to assist organizations in identifying and mitigating internal oversharing risks. <br/><br/>**This model includes**<br/><ul><li>Blueprint with high level activities and presentation [PDF](https://aka.ms/Copilot/OversharingBlueprintPDF) \| [PowerPoint](https://aka.ms/Copilot/OversharingBlueprintPPT)</li></ul> |
+| [![Address internal oversharing concerns in Microsoft 365 Copilot](media/microsoft-365-copilot-blueprint-oversharing/blueprint-oversharing-copilot.png)](https://aka.ms/Copilot/OversharingBlueprintPDF) | Use this deployment model to assist organizations in identifying and mitigating internal oversharing risks. <br/><br/>**This model includes**<br/><ul><li>Blueprint with high level activities and presentation [PDF](https://aka.ms/Copilot/OversharingBlueprintPDF) \| [PowerPoint](https://aka.ms/Copilot/OversharingBlueprintPPT)</li></ul> |
 
 ### Documentation resources
 
