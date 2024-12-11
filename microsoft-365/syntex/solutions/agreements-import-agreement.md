@@ -23,7 +23,7 @@ description: Learn how to import an agreement in the SharePoint Agreements solut
 You can add existing agreements by uploading signed documents. Select a file to be imported as a signed agreement. Details about the agreement will be automatically detected after you save.
 
 > [!NOTE]
-> To import scanned PDF files and extract data from them, you need to enable the [OCR pay-as-you-go service](ocr-overview.md).
+> To import scanned PDF files and extract data from them, you need to enable the [OCR pay-as-you-go service](/microsoft-365/syntex/ocr-overview).
 
 To import an agreement, follow these steps:
 
