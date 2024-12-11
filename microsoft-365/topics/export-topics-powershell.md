@@ -43,13 +43,13 @@ Key support files are included in this document:
 
 1. [Get the script](#export-topics-script).
 1. Use the following parameters: <br>
-Export-TopicLite -Upn < string > | Export-Csv -Path < string >
+    `Export-TopicLite -Upn < string > | Export-Csv -Path < string >`
 
-Example:
+   Example:
 
-```powershell
-Export-TopicLite -Upn "user@domain.com" -Path "C:\"
-```
+   ```powershell
+   Export-TopicLite -Upn "user@domain.com" -Path "C:\"
+   ```
 
 ## Output
 
