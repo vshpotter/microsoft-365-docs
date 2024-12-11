@@ -17,9 +17,9 @@
               href: microsoft-365-copilot-licensing.md
             - name: License feature comparison list
               href: microsoft-365-copilot-license-feature-overview.md
-            - name: E3 implementation guide
+            - name: E3 + SAM implementation guide
               href: microsoft-365-copilot-e3-guide.md
-            - name: E5 implementation guide
+            - name: E5 + SAM implementation guide
               href: microsoft-365-copilot-e5-guide.md
     - name: Deploy and enable Microsoft 365 Copilot
       items: 
