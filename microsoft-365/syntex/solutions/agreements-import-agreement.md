@@ -37,9 +37,6 @@ To import an agreement, follow these steps:
 
    ![A screenshot of Import signed agreements page.](../../media/content-understanding/agreements-import-dialog.png)
 
-    > [!NOTE]
-    > To import scanned PDF files and extract data from them, you need to enable the [OCR pay-as-you-go service](ocr-overview.md).
-
 3. Choose the workspace where the agreement should be stored, and then pick the category to which the agreement belongs.
 
 4. Select **Next** to process the file and detect fields.
