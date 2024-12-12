@@ -363,7 +363,7 @@ Update the following values in the existing OrganizationRelationship created in 
 
 - MailboxMovesCapability should have Inbound, RemoteOutbound as the capabilities in both source and target tenants.
 - In the new source tenant, update the OAuthApplicationId value with the value from the newly created application in the new source tenant.
-- In the new new source tenant, update the MailboxMovePublishedScopes value with the newly created security group in the new source tenant.
+- In the new source tenant, update the MailboxMovePublishedScopes value with the newly created security group in the new source tenant.
 
 ### Perform mailbox migrations
 
@@ -526,7 +526,7 @@ Exchange mailbox moves using MRS craft the targetAddress on the original source 
 
 ### How does mail flow work after migration?
 
-Cross-Tenant mail flow after migration works similar to Exchange Hybrid mail flow. Each migrated mailbox needs the source MailUser with the correct target address to forward incoming mail from source tenant to mailboxes in target tenant. Transport rules, security and compliance features will run as configured in each tenant that the mail flows through. So, for inbound mail, features like anti-spam, anti-malware, quarantine, transport rules and journaling rules will run in the source tenant first, then in the target tenant.
+Cross-Tenant mail flow after migration works similar to Exchange Hybrid mail flow. Each migrated mailbox needs the source MailUser with the correct target address to forward incoming mail from source tenant to mailboxes in target tenant. Transport rules, security, and compliance features will run as configured in each tenant that the mail flows through. So, for inbound mail, features like anti-spam, anti-malware, quarantine, transport rules and journaling rules will run in the source tenant first, then in the target tenant.
 
 ### How do mailbox permissions transition?
 
