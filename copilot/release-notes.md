@@ -22,7 +22,7 @@ appliesto:
   - ✅ Microsoft 365 Copilot
 ---
 
-# Release Notes for Microsoft 365 Copilot
+# Microsoft 365 Copilot release notes
 
 Welcome to the latest update on Microsoft 365 Copilot! This release note highlights features that have reached General Availability (Current channel for Office client features). You'll find platform-specific release notes by switching between tabs below. We'd love to hear your thoughts to continuously improve this page – please use the feedback button above to share your feedback.
 
