@@ -122,7 +122,7 @@ We provide two types of volume licensing product keys to automate and manage the
 You can use either or both key types to activate systems in your organization:
 
 - **Multiple Activation Keys (MAK)** are commonly used in small or mid-sized organizations that have a volume licensing agreement, but that don't meet the requirements to operate a KMS.
-- **Key Management Services (KMS)** let organizations activate systems within their own network. Minimum activation thresholds make this KMS suited to larger organizations.
+- **Key Management Services (KMS)** lets organizations activate systems within their own network. Minimum activation thresholds make this KMS suited to larger organizations.
 
 As part of volume activation, you might be required to provide a setup key. If your computers are activated with a KMS host, you must have a setup key. For products that you download from the admin center, the setup key is displayed on the download page and might include the following text: “Some products available for download require setup keys.” You need the setup key during product installation, so write it down somewhere that you can access it later.
 
