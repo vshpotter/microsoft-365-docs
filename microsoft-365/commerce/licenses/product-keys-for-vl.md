@@ -232,8 +232,8 @@ Submit a case in the admin center > <a href="https://go.microsoft.com/fwlink/p/?
 
 ## Related content
 
-[Download volume licensing products](licenses/download-vl-products.md) (article)\
-[Online service activation for Open programs FAQ](licenses/online-service-activation-faq.yml) (article)\
+[Download volume licensing products](download-vl-products.md) (article)\
+[Online service activation for Open programs FAQ](online-service-activation-faq.yml) (article)\
 [Volume Activation Management Tool (VAMT) Technical Reference](/windows/deployment/volume-activation/volume-activation-management-tool) (article)\
 [Managing Activation Using the Volume Activation Management Tool (VAMT)](/previous-versions/tn-archive/ff686876(v=technet.10)) (article)\
 [Tools to manage volume activation of Office](/deployoffice/vlactivation/tools-to-manage-volume-activation-of-office) (article)\
