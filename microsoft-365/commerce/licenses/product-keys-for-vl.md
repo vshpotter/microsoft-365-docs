@@ -131,7 +131,7 @@ For more information about setup keys, see [Key Management Services (KMS) client
 ## Key Management Service (KMS) host keys
 
 A Key Management Service (KMS) host key is used to activate the KMS host computer with a Microsoft activation server. The KMS host key can activate up to six KMS hosts with 10 activations per host. Each KMS host can activate an unlimited number of computers.
-There are minimum activation thresholds that must be met. The activation thresholds consist of either physical or virtual computers in a network environment. For more information, see the Volume Activation Planning Guide.
+There are minimum activation thresholds that must be met. The activation thresholds consist of either physical or virtual computers in a network environment. For more information, see [Volume activation for Windows](/windows/deployment/volume-activation/volume-activation-windows).
 
 - **Activation thresholds for Windows:**
   - Your organization must have at least five computers to activate servers that run Windows Server.
@@ -179,7 +179,7 @@ To see the number of times a MAK is used, use the following steps:
 The number of activations is also displayed in the Volume Activation Management Tool (VAMT) which is part of the Windows Assessment and Deployment Kit (ADK) for Windows. For more information, see [Volume Activation Management Tool (VAMT) technical reference](/windows/deployment/volume-activation/volume-activation-management-tool).
 
 > [!IMPORTANT]
-> Volume activation only applies to systems covered under a <a href="https://go.microsoft.com/fwlink/p/?linkid=2244144" target="_blank">Volume licensing</a> program and is used strictly as a tool for activation. Volume activation isn’t tied to license invoicing or billing.
+> Volume activation only applies to systems covered under a volume licensing program and is used strictly as a tool for activation. Volume activation isn’t tied to license invoicing or billing.
 
 ### Request an increase to MAK activation limits
 
@@ -219,12 +219,12 @@ If you deploy Microsoft 365 using KMS as the activation method:
 
 ## Use volume licensing product keys to activate earlier versions
 
-All volume licensing customers have the right to use product keys for re-imaging and downgrade purposes. Select Plus, Enterprise Agreement (EA), and Select customers have limited evaluation rights for training and back-up. For more information about re-imaging rights, see [Product licensing briefs](https://www.microsoft.com/licensing/docs/view/Licensing-Briefs).
+All volume licensing customers have the right to use product keys for reimaging and downgrade purposes. Select Plus, Enterprise Agreement (EA), and Select customers have limited evaluation rights for training and back-up. For more information about reimaging rights, see [Product licensing briefs](https://www.microsoft.com/licensing/docs/view/Licensing-Briefs).
 
-Re-imaging rights are granted to all Microsoft Volume Licensing customers. Under these rights, customers can re-image Original Equipment Manufacturer (OEM) or Full Packaged Product (FPP) licensed copies by using media provided under their agreement if the copies made from the volume licensing media are identical to the original licensed product. You can find the volume license keys in the admin center in the product details panel on the **Keys** tab or request your keys through Microsoft Assisted Support. To find support phone numbers, see [Volume License Key Phone Numbers | Microsoft Volume Licensing](https://www.microsoft.com/licensing/existing-customer/activation-centers?rtc=1?rtc=1).
+Reimaging rights are granted to all Microsoft Volume Licensing customers. Under these rights, customers can reimage Original Equipment Manufacturer (OEM) or Full Packaged Product (FPP) licensed copies by using media provided under their agreement if the copies made from the volume licensing media are identical to the original licensed product. You can find the volume license keys in the admin center in the product details panel on the **Keys** tab or request your keys through Microsoft Assisted Support. To find support phone numbers, see [Volume License Key Phone Numbers | Microsoft Volume Licensing](https://www.microsoft.com/licensing/existing-customer/activation-centers?rtc=1?rtc=1).
 
 > [!NOTE]
-> If you're an Open License customer, you must buy at least one unit of the product that you want to re-image to get access to the product media and receive a product key.
+> If you're an Open License customer, you must buy at least one unit of the product that you want to reimage to get access to the product media and receive a product key.
 
 ## Contact support
 
