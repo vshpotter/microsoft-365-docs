@@ -27,10 +27,9 @@ appliesto:
 This page lists the latest features and improvements for Microsoft Copilot. It includes updates that are Generally Available (Current Channel for Office client) and platform-specific release notes.
 
 #### [All features](#tab/all)
-<!--- All features regardless of platform go here  -->
 ## December, 2024
-### Microsoft Copilot (Microsoft 365)
-- **Microsoft 365 Copilot GCC general availability**  
+### Microsoft 365 Copilot
+- **Microsoft 365 Copilot GCC general availability** [Desktop, Web]  
   Bringing Microsoft 365 Copilot GCC, your AI assistant for work in the GCC environment. It combines the power of Large Language Models with your work content and context, to help you draft and rewrite, summarize and organize, catch up on what you missed, and get answers to questions via open prompts. [Learn more.](https://techcommunity.microsoft.com/blog/publicsectorblog/microsoft-365-copilot-gcc-ga-update-empowering-public-sector-innovation---update/4222952)
 ### OneNote
 - **Use Copilot in OneNote on Mac and iPad** [iOS, Mac]  
@@ -445,7 +444,7 @@ This page lists the latest features and improvements for Microsoft Copilot. It i
 - **Summarize and Share Changes with Your Team** [Web]  
   Use the Recap experience to have Copilot generate a summary of your changes and share it with your team. [Learn more.](https://support.microsoft.com/topic/e0044a51-6919-46bf-8dac-2e4f300988d5)
 ### Microsoft Purview
-- **Microsoft Purview capabilities for Microsoft Copilot (Microsoft 365)** [Web]  
+- **Microsoft Purview capabilities for Microsoft 365 Copilot** [Web]  
   Microsoft Purview is launching several capabilities that help with security and compliance of data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance.
 ### Microsoft Teams
 - **Copilot available in a channel post conversation**  
@@ -505,6 +504,9 @@ This page lists the latest features and improvements for Microsoft Copilot. It i
 <!--- All features that have 'Desktop' tag  -->
 
 ## December, 2024
+### Microsoft 365 Copilot
+- **Microsoft 365 Copilot GCC general availability** [Desktop, Web]  
+  Bringing Microsoft 365 Copilot GCC, your AI assistant for work in the GCC environment. It combines the power of Large Language Models with your work content and context, to help you draft and rewrite, summarize and organize, catch up on what you missed, and get answers to questions via open prompts. [Learn more.](https://techcommunity.microsoft.com/blog/publicsectorblog/microsoft-365-copilot-gcc-ga-update-empowering-public-sector-innovation---update/4222952)
 ### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Desktop, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. [Learn more.](https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58)
@@ -752,6 +754,9 @@ This page lists the latest features and improvements for Microsoft Copilot. It i
 <!--- All features that have 'Web' tag  -->
 
 ## December, 2024
+### Microsoft 365 Copilot
+- **Microsoft 365 Copilot GCC general availability** [Desktop, Web]  
+  Bringing Microsoft 365 Copilot GCC, your AI assistant for work in the GCC environment. It combines the power of Large Language Models with your work content and context, to help you draft and rewrite, summarize and organize, catch up on what you missed, and get answers to questions via open prompts. [Learn more.](https://techcommunity.microsoft.com/blog/publicsectorblog/microsoft-365-copilot-gcc-ga-update-empowering-public-sector-innovation---update/4222952)
 ### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Desktop, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. [Learn more.](https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58)
@@ -1041,7 +1046,7 @@ This page lists the latest features and improvements for Microsoft Copilot. It i
 - **Summarize and Share Changes with Your Team** [Web]  
   Use the Recap experience to have Copilot generate a summary of your changes and share it with your team. [Learn more.](https://support.microsoft.com/topic/e0044a51-6919-46bf-8dac-2e4f300988d5)
 ### Microsoft Purview
-- **Microsoft Purview capabilities for Microsoft Copilot (Microsoft 365)** [Web]  
+- **Microsoft Purview capabilities for Microsoft 365 Copilot** [Web]  
   Microsoft Purview is launching several capabilities that help with security and compliance of data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance.
 ### Microsoft Teams
 - **Copilot to summarize and answer Q&A in Teams Chat** [Desktop, Web, Android, iOS, Mac]  
