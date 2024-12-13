@@ -46,7 +46,7 @@ To access a customer tenant's license information, in the left navigation pane i
 
 ### Updated settings for "Require MFA for admins" deployment task
 
-As roles and permissions in Microsoft 365 Lighthouse have evolved to reduce security risk for both MSPs and their customers, we've updated the underlying settings of the "Require MFA for admins" deployment task in the default baseline to account for the following Microsoft Entra role assignments:
+As roles and permissions in Microsoft 365 Lighthouse have evolved to reduce security risk for you and your customers, we've updated the underlying settings of the "Require MFA for admins" deployment task in the default baseline to account for the following Microsoft Entra role assignments:
 
 - Application Administrator
 - Cloud Application Administrator
