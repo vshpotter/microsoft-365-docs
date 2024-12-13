@@ -80,7 +80,7 @@ Admins in the roles listed above don't need to be members of this group: they re
 
 2. Click on **Add a Group**.
 
-3. Choose the group type you want. Remember the name of the group! You'll need it later.
+3. Choose the group type you want. Remember the name of the group. You'll need it later.
 
 4. Finish setting up the group, adding people or other groups who you want to be able to create groups as members (not owners).
 
