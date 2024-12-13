@@ -24,21 +24,16 @@ appliesto:
 
 # Microsoft 365 Copilot release notes
 
-Welcome to the latest update on Microsoft 365 Copilot! This release note highlights features that have reached General Availability (Current channel for Office client features). You'll find platform-specific release notes by switching between tabs below. We'd love to hear your thoughts to continuously improve this page – please use the feedback button above to share your feedback.
-
-Explore the exciting new capabilities and improvements that Microsoft 365 Copilot offers, designed to enhance productivity and collaboration for your teams.
+This page lists the latest features and improvements for Microsoft Copilot. It includes updates that are Generally Available (Current Channel for Office client) and platform-specific release notes.
 
 #### [All features](#tab/all)
 
-<!--- All features regardless of platform  -->
+<!--- All features regardless of platform go here  -->
 
 ## December, 2024
-### Microsoft 365 admin center
-- **Track Copilot readiness and usage across Microsoft 365** [Web]  
-  Easily assess your organization’s technical eligibility, license assignment, and active usage of Microsoft 365 Copilot. Understand which apps drive engagement, monitor trends over time, and use these insights to guide licensing and adoption strategy decisions.
 ### OneNote
 - **Use Copilot in OneNote on Mac and iPad** [iOS, Mac]  
-  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. [Learn more.](N/A)
+  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go.
 ### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Desktop, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. [Learn more.](https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58)
@@ -47,31 +42,28 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Admin control over Copilot web search access** [Web]  
   Administrators can now manage user access to web search within Copilot using policies in config.office.com. This provides better control over how users interact with web content through Copilot. [Learn more.](https://learn.microsoft.com/en-us/copilot/microsoft-365/manage-public-web-access)
 - **Focus Copilot responses on specific emails in Business Chat** [Desktop, Web, Android, iOS, Mac]  
-  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you. [Learn more.](N/A)
+  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you.
 - **Jumpstart with Prebuilt Prompts in Business Chat** [Web]  
-  Quickly get started in Business Chat by exploring and using prebuilt prompts designed to help you maximize productivity from the get-go. [Learn more.](N/A)
+  Quickly get started in Business Chat by exploring and using prebuilt prompts designed to help you maximize productivity from the get-go.
 - **Save and reuse your favorite prompts in Copilot** [Desktop, Web]  
   Easily save your most-used prompts in Business Chat and Copilot Prompt Gallery website, keeping them at your fingertips for quicker interactions. [Learn more.](https://support.microsoft.com/topic/55373730-2627-46a5-b0d8-772abe22dba4)
 - **Search for meetings with external attendees**  
-  Effortlessly find and access meetings that include people from other organizations using the improved search functionality in Business Chat. [Learn more.](N/A)
+  Effortlessly find and access meetings that include people from other organizations using the improved search functionality in Business Chat.
 - **Share your feedback with in-chat rating in Copilot** [Desktop, Web]  
-  Easily rate your experience with Copilot's web-grounded chat on a 1-5 scale. Your feedback helps us improve Copilot to better meet your needs. [Learn more.](N/A)
+  Easily rate your experience with Copilot's web-grounded chat on a 1-5 scale. Your feedback helps us improve Copilot to better meet your needs.
 - **View web queries Used by Copilot for greater transparency** [Web]  
-  See the exact web queries Copilot sends in response to your prompts, along with the list of websites queried, enhancing your awareness and control over the information process. [Learn more.](N/A)
+  See the exact web queries Copilot sends in response to your prompts, along with the list of websites queried, enhancing your awareness and control over the information process.
 ### Excel
 - **Perform Advanced Analysis with Python Integration** [Desktop]  
   Leverage Python within Excel through Copilot to conduct advanced data analysis, unlocking new insights from your data. [Learn more.](https://support.microsoft.com/en-us/office/copilot-in-excel-with-python-364e4ae9-9343-4d56-952a-5f62b0f70db6)
 ### Microsoft 365 Copilot extensibility
 - **Add image generation to agents** [Desktop, Web]  
-  Enhance your agents by including image generation capabilities in agent builder [Learn more.](N/A)
+  Enhance your agents by including image generation capabilities in agent builder [Learn more.](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/add-agent-capabilities#image-generator)
 - **Create agents in M365 Copilot via agent builder** [Desktop, Web]  
-  Use agent builder to create agents that contain specific instructions and knowledge, such as SharePoint files, to suit your needs. [Learn more.](N/A)
+  Use agent builder to create agents that contain specific instructions and knowledge, such as SharePoint files, to suit your needs. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/copilot-studio-agent-builder-build)
 ### Microsoft Purview
 - **eDiscovery - Generate keyword query language from natural language prompt in eDiscovery with Copilot for Security** [Web]  
-  Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search.
-### Outlook
-- **Draft emails with Copilot in Outlook**  
-  Use Copilot to draft new emails from prompts, adjust length and tone, and even select parts of an email and use Copilot to rewrite those specific sections effortlessly.
+  Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search. [Learn more.](https://learn.microsoft.com/en-us/purview/ediscovery-natural-language-query)
 ### SharePoint
 - **Control site creation permissions with Restricted Site Creation** [Web]  
   Administrators can now manage who can create different types of SharePoint sites. Configure specific user groups with permissions to create Team sites, Communication sites, or all sites, enhancing governance and control. [Learn more.](https://learn.microsoft.com/sharepoint/restricted-site-creation)
@@ -86,8 +78,6 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Create more detailed drafts by writing prompts over 2,000 characters and referencing files totaling up to 75,000 words.
 ## October, 2024
 ### Business Chat
-- **Access Local Files in Business Chat** [Web]  
-  Upload and reference your local files directly within Copilot Chat prompts by using the Local Files button or typing '/', making your interactions more informed and efficient.
 - **Get contextual summaries in Edge sidebar with Business Chat** [Web]  
   Receive instant contextual summaries directly in the Edge Sidebar while using Business Chat, helping you quickly grasp information without leaving your browsing experience.
 - **Solve complex tasks in Copilot chat** [Web]  
@@ -97,7 +87,7 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   We have expanded our industry prompt collections in Prompt Gallery with new prompt collections tailored to the nonprofit, consumer goods, and mobility sectors.
 ### Microsoft 365 Copilot extensibility
 - **Create agents in Copilot with instructions and knowledge sources** [Desktop, Web]  
-  Users can build Copilot agents that include specific instructions and knowledge, such as SharePoint files, directly from BizChat using Copilot Studio Agent Builder.
+  Users can build Copilot agents that include specific instructions and knowledge, such as SharePoint files, directly from BizChat using Copilot Studio Agent Builder. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/copilot-studio-agent-builder-build)
 - **Customize your agent list in Copilot across apps** [Desktop, Web]  
   Reorder or remove agents from your agent list, with updates based on your most recently used agents and admin-installed agents, available in BizChat, Microsoft Teams, and Microsoft 365.
 - **Invoke agents with @mentions across apps** [Desktop, Web]  
@@ -139,7 +129,7 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Copilot in Excel, now no longer in Preview but Generally Available, works alongside you to analyze and explore your data, answering questions in natural language and revealing insights without the need for complex formulas.
 ### Microsoft 365 admin center
 - **Identify suggested candidates for Copilot licensing** [Web]  
-  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps.
+  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness?view=o365-worldwide#additional-details-for-suggested-candidate-for-copilot)
 ### OneDrive
 - **Copilot in OneDrive** [Web]  
   Copilot in OneDrive, available on the web, allows you to ask questions and extract information from your files. Get summaries and insights from Word, PDF, PowerPoint, Excel, and text files. [Learn more.](https://support.microsoft.com/office/get-started-with-copilot-in-onedrive-7fc81e10-e0cf-4da8-af2e-9876a2770e5d)
@@ -192,6 +182,8 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 ### Outlook
 - **Copilot Business Chat in Outlook Mobile** [Android, iOS]  
   The Copilot Business Chat experience is now available in Outlook for iOS and Android. Enhance your mobile email experience with AI-powered assistance on the go.
+- **Schedule Meetings from an Email with Copilot** [Desktop, Web]  
+  Quickly shift from an email thread to a meeting invite by clicking "Schedule with Copilot." Copilot summarizes the conversation, drafts an agenda, and includes key context automatically.
 ### PowerPoint
 - **Build your story with Narrative Builder** [Desktop, Web, iOS, Mac]  
   Copilot helps you form your narrative and turns it into a fully designed presentation, streamlining the creative process.
@@ -219,7 +211,7 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Copilot can now reason over data ranges with a single row of headers, even if they aren't formatted as formal tables. This makes data analysis more flexible.
 ### Microsoft 365 admin center
 - **Gain visibility into Copilot Graph-grounded chat usage** [Web]  
-  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies.
+  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage?view=o365-worldwide)
 ### Microsoft Loop
 - **Copilot-Assisted Loop Page Creation** [Web]  
   Collaborate with Copilot to create structured Loop pages quickly. Start from scratch or modify existing pages or templates with AI assistance for efficient teamwork.
@@ -360,7 +352,7 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Users can copy-paste a link of a supported file into the Draft with Copilot UI as a reference, instead of searching for it in the file reference menu.
 ## March, 2024
 ### Business Chat
-- **Rich entity representations in Copilot responses**  
+- **Rich entity representations in Copilot responses** [Desktop, Web, Android, iOS, Mac]  
   Copilot now provides richer representations of entities like people, events, and files within responses, enhancing context and usability.
 ### Excel
 - **Enable Copilot in Excel by Saving Files to OneDrive or SharePoint** [Desktop, Mac]  
@@ -368,8 +360,8 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Speak to Copilot in Excel with New Input Methods** [Desktop, Web, Mac]  
   You can now use your microphone to send prompts to Copilot in Excel, and explore the Prompt Guide for customized suggestions.
 ### Microsoft Purview
-- **AI hub in Microsoft Purview** [Web]  
-  Microsoft Purview AI Hub is released to general availability. Along with this release, the name has been rebranded to Microsoft Purview Data Security Posture Management for AI (DSPM for AI) and capabilities have been added that include supporting admin units, displaying AI policies that were created in Purview solutions, and supporting additional AI apps. A version of DSPM for AI is also available to additional licensing, specifically Microsoft 365 E3 and Microsoft 365 Copilot licenses. The AI hub in Microsoft Purview is a centralized location to gain insights into generative AI activity including the sensitive data flowing in AI prompts - both for Microsoft Copilot for Microsoft 365 and non-Microsoft AI applications.
+- **Microsoft Purview Data Security Posture Management for AI** [Web]  
+  Microsoft Purview Data Security Posture Management for AI (DSPM for AI) is a centralized location to gain insights into generative AI activity including the sensitive data flowing in AI prompts - for Microsoft 365 Copilot, Microsoft Copilot Studio, and non-Microsoft AI applications.
 ### Microsoft Teams
 - **Customize your draft message when you compose with Copilot**  
   You can now instruct Copilot to adjust your draft message however you'd like. Adjust the message with a custom prompt, like “add a call to action” or “make it persuasive". [Learn more.](https://support.microsoft.com/office/rewrite-and-adjust-your-messages-with-copilot-in-microsoft-teams-53315d9c-93be-45ab-9004-2f8205725cc7)
@@ -408,6 +400,10 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Visualize as Table** [Desktop]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling.
 ## December, 2023
+### Microsoft 365 admin center
+- **Track Copilot readiness and usage across Microsoft 365** [Web]  
+  Easily assess your organization’s technical eligibility, license assignment, and active usage of Microsoft 365 Copilot. Understand which apps drive engagement, monitor trends over time, and use these insights to guide licensing and adoption strategy decisions. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness?view=o365-worldwide)
+### Word
 - **Visualize as Table** [Mac]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling. [Learn more.](https://support.microsoft.com/topic/923d9763-f896-4da7-8a3f-5b12c3bfc475)
 ## November, 2023
@@ -422,22 +418,22 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Your single destination to take on any task, combining AI power with your work content to draft content, catch up, and get answers. [Learn more.](https://support.microsoft.com/topic/5b00a52d-7296-48ee-b938-b95b7209f737)
 ### Excel
 - **Add Formula Columns with Copilot** [Desktop, Web, Mac]  
-  Copilot provides formula suggestions with explanations, helping you create new columns based on your data.
+  Copilot provides formula suggestions with explanations, helping you create new columns based on your data. [Learn more.](https://support.microsoft.com/topic/d866d926-9791-4e5f-be2a-c6dd9e587a47)
 - **Generate Data Insights with Copilot** [Desktop, Web, Mac]  
-  Copilot can suggest insights like summaries, trends, and outliers, returning results as charts or PivotTables to enhance your analysis.
+  Copilot can suggest insights like summaries, trends, and outliers, returning results as charts or PivotTables to enhance your analysis. [Learn more.](https://support.microsoft.com/topic/52d97339-86c0-431c-b46c-e7b07b2898dd)
 - **Use Copilot to Highlight, Filter, and Sort Data in Excel Tables** [Desktop, Web, Mac]  
-  Transform your data by asking Copilot to format your Excel tables. You can highlight top values, filter specific entries, or sort data. For example, ask Copilot to highlight the top 3 values in a column, and it will apply conditional formatting.
+  Transform your data by asking Copilot to format your Excel tables. You can highlight top values, filter specific entries, or sort data. For example, ask Copilot to highlight the top 3 values in a column, and it will apply conditional formatting. [Learn more.](https://support.microsoft.com/topic/05302e3f-de42-4475-b235-be9cb3d4e936)
 ### Microsoft Loop
 - **Experience Visual Updates to the Copilot Block** [Web]  
   The Copilot Block now blends more naturally into your page, with AI interactions happening in the right margin.
 - **Generate Page Summaries with Copilot in Loop** [Web]  
-  Insert a 'Page Summary' component to have Copilot summarize the content on your current Loop page.
+  Insert a 'Page Summary' component to have Copilot summarize the content on your current Loop page. [Learn more.](https://support.microsoft.com/topic/5e2c071f-c734-4798-a7a5-2c9d8fa648d1)
 - **Get Insights from Your Current Page Content** [Web]  
-  Copilot can answer questions based on the content on your current Loop page, providing summaries and analyses.
+  Copilot can answer questions based on the content on your current Loop page, providing summaries and analyses. [Learn more.](https://support.microsoft.com/topic/b5baf628-c39c-44e8-8b2f-d67bf23f9af6)
 - **Rewrite Existing Content with Copilot** [Web]  
-  Leverage Copilot to help rewrite, supplement, or gain insights from content that already exists in Loop.
+  Leverage Copilot to help rewrite, supplement, or gain insights from content that already exists in Loop. [Learn more.](https://support.microsoft.com/topic/a3057c16-a065-49e8-ad04-e0a453168377)
 - **Summarize and Share Changes with Your Team** [Web]  
-  Use the Recap experience to have Copilot generate a summary of your changes and share it with your team.
+  Use the Recap experience to have Copilot generate a summary of your changes and share it with your team. [Learn more.](https://support.microsoft.com/topic/e0044a51-6919-46bf-8dac-2e4f300988d5)
 ### Microsoft Purview
 - **Microsoft Purview capabilities for Microsoft Copilot (Microsoft 365)** [Web]  
   Microsoft Purview is launching several capabilities that help with security and compliance of data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance.
@@ -448,28 +444,30 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Copilot helps you catch up on conversations by providing summaries and answering questions in Teams chats.
 ### Outlook
 - **Compose emails effortlessly on Outlook for Android** [Android]  
-  Provide a prompt and generate a full email. Customize the tone and length to suit your needs, streamlining your email writing process.
+  Provide a prompt and generate a full email. Customize the tone and length to suit your needs, streamlining your email writing process. [Learn more.](https://support.microsoft.com/topic/3eb1d053-89b8-491c-8a6e-746015238d9b)
 - **Compose emails effortlessly on Outlook for iOS** [iOS]  
-  Provide a prompt and generate a full email. Customize the tone and length to suit your needs, streamlining your email writing process.
+  Provide a prompt and generate a full email. Customize the tone and length to suit your needs, streamlining your email writing process. [Learn more.](https://support.microsoft.com/topic/3eb1d053-89b8-491c-8a6e-746015238d9b)
+- **Draft emails with Copilot in Outlook**  
+  Use Copilot to draft new emails from prompts, adjust length and tone, and even select parts of an email and use Copilot to rewrite those specific sections effortlessly. [Learn more.](https://support.microsoft.com/topic/3eb1d053-89b8-491c-8a6e-746015238d9b)
 - **Summarize email conversations on Outlook for Android and iOS** [Android, iOS]  
-  Quickly get summaries of entire email threads, helping you catch up on conversations efficiently.
+  Quickly get summaries of entire email threads, helping you catch up on conversations efficiently. [Learn more.](https://support.microsoft.com/topic/a79873f2-396b-46dc-b852-7fe5947ab640)
 - **Summarize email threads in Classic Outlook for Windows** [Desktop]  
-  Summarize email conversations, extract key points, and receive recommended actions, enhancing your productivity.
+  Summarize email conversations, extract key points, and receive recommended actions, enhancing your productivity. [Learn more.](https://support.microsoft.com/topic/a79873f2-396b-46dc-b852-7fe5947ab640)
 ### PowerPoint
 - **Automatically add an agenda slide to your presentation** [Desktop, Web, iOS, Mac]  
   Generate and insert an agenda slide based on your existing content, helping you prepare your audience for what's ahead.
 - **Convert Word documents into presentations** [Desktop, iOS, Mac]  
-  Transform your Word documents into fully designed PowerPoint presentations, simplifying the creation process.
+  Transform your Word documents into fully designed PowerPoint presentations, simplifying the creation process. [Learn more.](https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d)
 - **Create presentations using your organization's templates** [Desktop, Web, iOS, Mac]  
-  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand.
+  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. [Learn more.](https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d)
 - **Edit your presentation in Copilot chat** [Desktop, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process.
+  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. [Learn more.](https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80)
 - **Get answers about your presentation** [Desktop, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Desktop, Web, iOS, Mac]  
-  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation.
+  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation. [Learn more.](https://support.microsoft.com/topic/a207eea3-7a56-4225-88f1-54dd37cdcf6a)
 - **Summarize your presentation and identify key points** [Desktop, Web, iOS, Mac]  
-  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information.
+  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information. [Learn more.](https://support.microsoft.com/topic/499e604c-4ab9-4f6a-9dbe-691cc87f2f69)
 ### Word
 - **Apply highest sensitivity label to generated content** [Desktop, Web, iOS, Mac]  
   Ensure your documents maintain appropriate confidentiality levels as labels are automatically updated when referencing files with higher sensitivity.
@@ -487,7 +485,12 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Use voice to dictate into the Copilot chat prompt field
 - **Visualize as Table** [Web]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling.
+## September, 2023
+### Outlook
+- **Meeting Recap in Calendar** [Desktop, Web]  
+  After a meeting ends, open the event from your calendar to view the meeting summary, mentions, tasks, and more, helping you catch up and collaborate asynchronously.
 ## August, 2023
+### Outlook
 - **Get Coaching from Copilot for an email draft**  
   Copilot combines AI with your Outlook data to help you craft better emails, offering suggestions on tone and message effectiveness.
 ## July, 2023
@@ -503,9 +506,11 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Get quick summaries of email threads in Outlook** [Web]  
   Receive concise summaries of email conversations, helping you stay informed without reading every message.
 ## April, 2023
+### OneDrive
 - **Share Word Documents with AI-Generated Summaries** [Web]  
   Users can now include an AI-generated summary when sharing Word documents, helping recipients understand content quickly and collaborate efficiently.
 ## March, 2023
+### Microsoft Loop
 - **Collaborate with Copilot in Loop** [Web]  
   Work together with Copilot and your team to create content, generate ideas, and refine results collaboratively.
 
@@ -514,24 +519,25 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 <!--- All features that have 'Desktop' tag  -->
 
 ## December, 2024
+### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Desktop, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. [Learn more.](https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58)
 ## November, 2024
 ### Business Chat
 - **Focus Copilot responses on specific emails in Business Chat** [Desktop, Web, Android, iOS, Mac]  
-  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you. [Learn more.](N/A)
+  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you.
 - **Save and reuse your favorite prompts in Copilot** [Desktop, Web]  
   Easily save your most-used prompts in Business Chat and Copilot Prompt Gallery website, keeping them at your fingertips for quicker interactions. [Learn more.](https://support.microsoft.com/topic/55373730-2627-46a5-b0d8-772abe22dba4)
 - **Share your feedback with in-chat rating in Copilot** [Desktop, Web]  
-  Easily rate your experience with Copilot's web-grounded chat on a 1-5 scale. Your feedback helps us improve Copilot to better meet your needs. [Learn more.](N/A)
+  Easily rate your experience with Copilot's web-grounded chat on a 1-5 scale. Your feedback helps us improve Copilot to better meet your needs.
 ### Excel
 - **Perform Advanced Analysis with Python Integration** [Desktop]  
   Leverage Python within Excel through Copilot to conduct advanced data analysis, unlocking new insights from your data. [Learn more.](https://support.microsoft.com/en-us/office/copilot-in-excel-with-python-364e4ae9-9343-4d56-952a-5f62b0f70db6)
 ### Microsoft 365 Copilot extensibility
 - **Add image generation to agents** [Desktop, Web]  
-  Enhance your agents by including image generation capabilities in agent builder [Learn more.](N/A)
+  Enhance your agents by including image generation capabilities in agent builder [Learn more.](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/add-agent-capabilities#image-generator)
 - **Create agents in M365 Copilot via agent builder** [Desktop, Web]  
-  Use agent builder to create agents that contain specific instructions and knowledge, such as SharePoint files, to suit your needs. [Learn more.](N/A)
+  Use agent builder to create agents that contain specific instructions and knowledge, such as SharePoint files, to suit your needs. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/copilot-studio-agent-builder-build)
 ### Word
 - **Fine-tune Rewrite responses in Copilot in Word** [Desktop]  
   Customize the output from Copilot's Rewrite feature by specifying how the text should change to better suit your needs.
@@ -543,7 +549,7 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   We have expanded our industry prompt collections in Prompt Gallery with new prompt collections tailored to the nonprofit, consumer goods, and mobility sectors.
 ### Microsoft 365 Copilot extensibility
 - **Create agents in Copilot with instructions and knowledge sources** [Desktop, Web]  
-  Users can build Copilot agents that include specific instructions and knowledge, such as SharePoint files, directly from BizChat using Copilot Studio Agent Builder.
+  Users can build Copilot agents that include specific instructions and knowledge, such as SharePoint files, directly from BizChat using Copilot Studio Agent Builder. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/copilot-studio-agent-builder-build)
 - **Customize your agent list in Copilot across apps** [Desktop, Web]  
   Reorder or remove agents from your agent list, with updates based on your most recently used agents and admin-installed agents, available in BizChat, Microsoft Teams, and Microsoft 365.
 - **Invoke agents with @mentions across apps** [Desktop, Web]  
@@ -596,6 +602,9 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Copilot can now identify and summarize information over specific time periods, responding accurately to queries like "yesterday," "last month," or "last year." [Learn more.](https://support.microsoft.com/office/use-copilot-in-microsoft-teams-chat-and-channels-cccccca2-9dc8-49a9-ab76-b1a8ee21486c)
 - **Linked files in Copilot replies** [Desktop, Android, iOS, Mac]  
   We've optimized Copilot in Microsoft Teams to include linked files in Copilot answers for quicker and more reliable retrieval of files and links, making your experience smoother and more efficient.
+### Outlook
+- **Schedule Meetings from an Email with Copilot** [Desktop, Web]  
+  Quickly shift from an email thread to a meeting invite by clicking "Schedule with Copilot." Copilot summarizes the conversation, drafts an agenda, and includes key context automatically.
 ### PowerPoint
 - **Build your story with Narrative Builder** [Desktop, Web, iOS, Mac]  
   Copilot helps you form your narrative and turns it into a fully designed presentation, streamlining the creative process.
@@ -671,6 +680,10 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Draft with Copilot supports referencing files encrypted with sensitivity labels** [Desktop, Web, Mac]  
   Draft with Copilot now allows you to reference files encrypted with sensitivity labels, ensuring secure document creation.
 ## March, 2024
+### Business Chat
+- **Rich entity representations in Copilot responses** [Desktop, Web, Android, iOS, Mac]  
+  Copilot now provides richer representations of entities like people, events, and files within responses, enhancing context and usability.
+### Excel
 - **Enable Copilot in Excel by Saving Files to OneDrive or SharePoint** [Desktop, Mac]  
   To use Copilot in Excel, save your files to OneDrive or SharePoint with AutoSave on. You'll receive prompts to help you set this up if needed.
 - **Speak to Copilot in Excel with New Input Methods** [Desktop, Web, Mac]  
@@ -704,32 +717,32 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Your single destination to take on any task, combining AI power with your work content to draft content, catch up, and get answers. [Learn more.](https://support.microsoft.com/topic/5b00a52d-7296-48ee-b938-b95b7209f737)
 ### Excel
 - **Add Formula Columns with Copilot** [Desktop, Web, Mac]  
-  Copilot provides formula suggestions with explanations, helping you create new columns based on your data.
+  Copilot provides formula suggestions with explanations, helping you create new columns based on your data. [Learn more.](https://support.microsoft.com/topic/d866d926-9791-4e5f-be2a-c6dd9e587a47)
 - **Generate Data Insights with Copilot** [Desktop, Web, Mac]  
-  Copilot can suggest insights like summaries, trends, and outliers, returning results as charts or PivotTables to enhance your analysis.
+  Copilot can suggest insights like summaries, trends, and outliers, returning results as charts or PivotTables to enhance your analysis. [Learn more.](https://support.microsoft.com/topic/52d97339-86c0-431c-b46c-e7b07b2898dd)
 - **Use Copilot to Highlight, Filter, and Sort Data in Excel Tables** [Desktop, Web, Mac]  
-  Transform your data by asking Copilot to format your Excel tables. You can highlight top values, filter specific entries, or sort data. For example, ask Copilot to highlight the top 3 values in a column, and it will apply conditional formatting.
+  Transform your data by asking Copilot to format your Excel tables. You can highlight top values, filter specific entries, or sort data. For example, ask Copilot to highlight the top 3 values in a column, and it will apply conditional formatting. [Learn more.](https://support.microsoft.com/topic/05302e3f-de42-4475-b235-be9cb3d4e936)
 ### Microsoft Teams
 - **Copilot to summarize and answer Q&A in Teams Chat** [Desktop, Web, Android, iOS, Mac]  
   Copilot helps you catch up on conversations by providing summaries and answering questions in Teams chats.
 ### Outlook
 - **Summarize email threads in Classic Outlook for Windows** [Desktop]  
-  Summarize email conversations, extract key points, and receive recommended actions, enhancing your productivity.
+  Summarize email conversations, extract key points, and receive recommended actions, enhancing your productivity. [Learn more.](https://support.microsoft.com/topic/a79873f2-396b-46dc-b852-7fe5947ab640)
 ### PowerPoint
 - **Automatically add an agenda slide to your presentation** [Desktop, Web, iOS, Mac]  
   Generate and insert an agenda slide based on your existing content, helping you prepare your audience for what's ahead.
 - **Convert Word documents into presentations** [Desktop, iOS, Mac]  
-  Transform your Word documents into fully designed PowerPoint presentations, simplifying the creation process.
+  Transform your Word documents into fully designed PowerPoint presentations, simplifying the creation process. [Learn more.](https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d)
 - **Create presentations using your organization's templates** [Desktop, Web, iOS, Mac]  
-  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand.
+  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. [Learn more.](https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d)
 - **Edit your presentation in Copilot chat** [Desktop, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process.
+  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. [Learn more.](https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80)
 - **Get answers about your presentation** [Desktop, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Desktop, Web, iOS, Mac]  
-  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation.
+  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation. [Learn more.](https://support.microsoft.com/topic/a207eea3-7a56-4225-88f1-54dd37cdcf6a)
 - **Summarize your presentation and identify key points** [Desktop, Web, iOS, Mac]  
-  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information.
+  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information. [Learn more.](https://support.microsoft.com/topic/499e604c-4ab9-4f6a-9dbe-691cc87f2f69)
 ### Word
 - **Apply highest sensitivity label to generated content** [Desktop, Web, iOS, Mac]  
   Ensure your documents maintain appropriate confidentiality levels as labels are automatically updated when referencing files with higher sensitivity.
@@ -745,15 +758,16 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Access chat while in Viewing mode to ask questions about the document's content without switching to Editing mode, improving your reading experience.
 - **Use voice prompts for assistance** [Desktop, Web, Mac]  
   Use voice to dictate into the Copilot chat prompt field
+## September, 2023
+### Outlook
+- **Meeting Recap in Calendar** [Desktop, Web]  
+  After a meeting ends, open the event from your calendar to view the meeting summary, mentions, tasks, and more, helping you catch up and collaborate asynchronously.
 
 #### [Web](#tab/web)
 
 <!--- All features that have 'Web' tag  -->
 
 ## December, 2024
-### Microsoft 365 admin center
-- **Track Copilot readiness and usage across Microsoft 365** [Web]  
-  Easily assess your organization’s technical eligibility, license assignment, and active usage of Microsoft 365 Copilot. Understand which apps drive engagement, monitor trends over time, and use these insights to guide licensing and adoption strategy decisions.
 ### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Desktop, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. [Learn more.](https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58)
@@ -762,23 +776,23 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Admin control over Copilot web search access** [Web]  
   Administrators can now manage user access to web search within Copilot using policies in config.office.com. This provides better control over how users interact with web content through Copilot. [Learn more.](https://learn.microsoft.com/en-us/copilot/microsoft-365/manage-public-web-access)
 - **Focus Copilot responses on specific emails in Business Chat** [Desktop, Web, Android, iOS, Mac]  
-  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you. [Learn more.](N/A)
+  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you.
 - **Jumpstart with Prebuilt Prompts in Business Chat** [Web]  
-  Quickly get started in Business Chat by exploring and using prebuilt prompts designed to help you maximize productivity from the get-go. [Learn more.](N/A)
+  Quickly get started in Business Chat by exploring and using prebuilt prompts designed to help you maximize productivity from the get-go.
 - **Save and reuse your favorite prompts in Copilot** [Desktop, Web]  
   Easily save your most-used prompts in Business Chat and Copilot Prompt Gallery website, keeping them at your fingertips for quicker interactions. [Learn more.](https://support.microsoft.com/topic/55373730-2627-46a5-b0d8-772abe22dba4)
 - **Share your feedback with in-chat rating in Copilot** [Desktop, Web]  
-  Easily rate your experience with Copilot's web-grounded chat on a 1-5 scale. Your feedback helps us improve Copilot to better meet your needs. [Learn more.](N/A)
+  Easily rate your experience with Copilot's web-grounded chat on a 1-5 scale. Your feedback helps us improve Copilot to better meet your needs.
 - **View web queries Used by Copilot for greater transparency** [Web]  
-  See the exact web queries Copilot sends in response to your prompts, along with the list of websites queried, enhancing your awareness and control over the information process. [Learn more.](N/A)
+  See the exact web queries Copilot sends in response to your prompts, along with the list of websites queried, enhancing your awareness and control over the information process.
 ### Microsoft 365 Copilot extensibility
 - **Add image generation to agents** [Desktop, Web]  
-  Enhance your agents by including image generation capabilities in agent builder [Learn more.](N/A)
+  Enhance your agents by including image generation capabilities in agent builder [Learn more.](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/add-agent-capabilities#image-generator)
 - **Create agents in M365 Copilot via agent builder** [Desktop, Web]  
-  Use agent builder to create agents that contain specific instructions and knowledge, such as SharePoint files, to suit your needs. [Learn more.](N/A)
+  Use agent builder to create agents that contain specific instructions and knowledge, such as SharePoint files, to suit your needs. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/copilot-studio-agent-builder-build)
 ### Microsoft Purview
 - **eDiscovery - Generate keyword query language from natural language prompt in eDiscovery with Copilot for Security** [Web]  
-  Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search.
+  Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search. [Learn more.](https://learn.microsoft.com/en-us/purview/ediscovery-natural-language-query)
 ### SharePoint
 - **Control site creation permissions with Restricted Site Creation** [Web]  
   Administrators can now manage who can create different types of SharePoint sites. Configure specific user groups with permissions to create Team sites, Communication sites, or all sites, enhancing governance and control. [Learn more.](https://learn.microsoft.com/sharepoint/restricted-site-creation)
@@ -791,15 +805,13 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Create more detailed drafts by writing prompts over 2,000 characters and referencing files totaling up to 75,000 words.
 ## October, 2024
 ### Business Chat
-- **Access Local Files in Business Chat** [Web]  
-  Upload and reference your local files directly within Copilot Chat prompts by using the Local Files button or typing '/', making your interactions more informed and efficient.
 - **Get contextual summaries in Edge sidebar with Business Chat** [Web]  
   Receive instant contextual summaries directly in the Edge Sidebar while using Business Chat, helping you quickly grasp information without leaving your browsing experience.
 - **Solve complex tasks in Copilot chat** [Web]  
   Use Copilot to solve complex math problems, analyze data, generate visualizations, and more in Copilot chat.
 ### Microsoft 365 Copilot extensibility
 - **Create agents in Copilot with instructions and knowledge sources** [Desktop, Web]  
-  Users can build Copilot agents that include specific instructions and knowledge, such as SharePoint files, directly from BizChat using Copilot Studio Agent Builder.
+  Users can build Copilot agents that include specific instructions and knowledge, such as SharePoint files, directly from BizChat using Copilot Studio Agent Builder. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/copilot-studio-agent-builder-build)
 - **Customize your agent list in Copilot across apps** [Desktop, Web]  
   Reorder or remove agents from your agent list, with updates based on your most recently used agents and admin-installed agents, available in BizChat, Microsoft Teams, and Microsoft 365.
 - **Invoke agents with @mentions across apps** [Desktop, Web]  
@@ -827,7 +839,7 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Copilot in Excel, now no longer in Preview but Generally Available, works alongside you to analyze and explore your data, answering questions in natural language and revealing insights without the need for complex formulas.
 ### Microsoft 365 admin center
 - **Identify suggested candidates for Copilot licensing** [Web]  
-  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps.
+  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness?view=o365-worldwide#additional-details-for-suggested-candidate-for-copilot)
 ### OneDrive
 - **Copilot in OneDrive** [Web]  
   Copilot in OneDrive, available on the web, allows you to ask questions and extract information from your files. Get summaries and insights from Word, PDF, PowerPoint, Excel, and text files. [Learn more.](https://support.microsoft.com/office/get-started-with-copilot-in-onedrive-7fc81e10-e0cf-4da8-af2e-9876a2770e5d)
@@ -861,6 +873,9 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 ### Forms
 - **Copilot Helps Students Understand Quiz Solutions** [Web]  
   After submitting quizzes, students can now receive Copilot-assisted explanations for correct and incorrect answers. This feature aids learning by providing detailed solution steps.
+### Outlook
+- **Schedule Meetings from an Email with Copilot** [Desktop, Web]  
+  Quickly shift from an email thread to a meeting invite by clicking "Schedule with Copilot." Copilot summarizes the conversation, drafts an agenda, and includes key context automatically.
 ### PowerPoint
 - **Build your story with Narrative Builder** [Desktop, Web, iOS, Mac]  
   Copilot helps you form your narrative and turns it into a fully designed presentation, streamlining the creative process.
@@ -883,7 +898,7 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Copilot can now reason over data ranges with a single row of headers, even if they aren't formatted as formal tables. This makes data analysis more flexible.
 ### Microsoft 365 admin center
 - **Gain visibility into Copilot Graph-grounded chat usage** [Web]  
-  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies.
+  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage?view=o365-worldwide)
 ### Microsoft Loop
 - **Copilot-Assisted Loop Page Creation** [Web]  
   Collaborate with Copilot to create structured Loop pages quickly. Start from scratch or modify existing pages or templates with AI assistance for efficient teamwork.
@@ -976,12 +991,15 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Use a url to reference supported files in Copilot in Word** [Web]  
   Users can copy-paste a link of a supported file into the Draft with Copilot UI as a reference, instead of searching for it in the file reference menu.
 ## March, 2024
+### Business Chat
+- **Rich entity representations in Copilot responses** [Desktop, Web, Android, iOS, Mac]  
+  Copilot now provides richer representations of entities like people, events, and files within responses, enhancing context and usability.
 ### Excel
 - **Speak to Copilot in Excel with New Input Methods** [Desktop, Web, Mac]  
   You can now use your microphone to send prompts to Copilot in Excel, and explore the Prompt Guide for customized suggestions.
 ### Microsoft Purview
-- **AI hub in Microsoft Purview** [Web]  
-  Microsoft Purview AI Hub is released to general availability. Along with this release, the name has been rebranded to Microsoft Purview Data Security Posture Management for AI (DSPM for AI) and capabilities have been added that include supporting admin units, displaying AI policies that were created in Purview solutions, and supporting additional AI apps. A version of DSPM for AI is also available to additional licensing, specifically Microsoft 365 E3 and Microsoft 365 Copilot licenses. The AI hub in Microsoft Purview is a centralized location to gain insights into generative AI activity including the sensitive data flowing in AI prompts - both for Microsoft Copilot for Microsoft 365 and non-Microsoft AI applications.
+- **Microsoft Purview Data Security Posture Management for AI** [Web]  
+  Microsoft Purview Data Security Posture Management for AI (DSPM for AI) is a centralized location to gain insights into generative AI activity including the sensitive data flowing in AI prompts - for Microsoft 365 Copilot, Microsoft Copilot Studio, and non-Microsoft AI applications.
 ### Word
 - **Share Word Documents with AI Summary** [Web]  
   Include an AI-generated document summary when sharing Word documents. Recipients get a rich preview, aiding quicker understanding and collaboration.
@@ -999,6 +1017,10 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 ### Microsoft Purview
 - **Communication Compliance-Detect Microsoft Copilot for Microsoft 365 interactions template** [Web]  
   Communication Compliance is introducing a new template dedicated to analyzing all Copilot for Microsoft 365 prompts and responses, to help ensure content prohibited by customers’ policies, such as harassing or threatening language, is not being used Copilot for Microsoft 365 interfaces. This scales Communication Compliance’s reach, consistent with Microsoft 365’s expanding interfaces. In addition, administrators are also able to select Copilot chats as a checked location in the policy creation wizard for any new or existing policies. This empowers administrators to fine-tune their management strategy precisely to their organization’s needs, with a focus on user privacy protection. Whether it's setting specific conditions or deploying trainable classifiers, this feature provides flexibility and adaptability in compliance management, ensuring your organization's communications remain secure, compliant, and respectful of user privacy.
+## December, 2023
+### Microsoft 365 admin center
+- **Track Copilot readiness and usage across Microsoft 365** [Web]  
+  Easily assess your organization’s technical eligibility, license assignment, and active usage of Microsoft 365 Copilot. Understand which apps drive engagement, monitor trends over time, and use these insights to guide licensing and adoption strategy decisions. [Learn more.](https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness?view=o365-worldwide)
 ## November, 2023
 ### Business Chat
 - **Access Microsoft 365 Copilot Business Chat on Microsoft365.com** [Desktop, Web]  
@@ -1009,22 +1031,22 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Your single destination to take on any task, combining AI power with your work content to draft content, catch up, and get answers. [Learn more.](https://support.microsoft.com/topic/5b00a52d-7296-48ee-b938-b95b7209f737)
 ### Excel
 - **Add Formula Columns with Copilot** [Desktop, Web, Mac]  
-  Copilot provides formula suggestions with explanations, helping you create new columns based on your data.
+  Copilot provides formula suggestions with explanations, helping you create new columns based on your data. [Learn more.](https://support.microsoft.com/topic/d866d926-9791-4e5f-be2a-c6dd9e587a47)
 - **Generate Data Insights with Copilot** [Desktop, Web, Mac]  
-  Copilot can suggest insights like summaries, trends, and outliers, returning results as charts or PivotTables to enhance your analysis.
+  Copilot can suggest insights like summaries, trends, and outliers, returning results as charts or PivotTables to enhance your analysis. [Learn more.](https://support.microsoft.com/topic/52d97339-86c0-431c-b46c-e7b07b2898dd)
 - **Use Copilot to Highlight, Filter, and Sort Data in Excel Tables** [Desktop, Web, Mac]  
-  Transform your data by asking Copilot to format your Excel tables. You can highlight top values, filter specific entries, or sort data. For example, ask Copilot to highlight the top 3 values in a column, and it will apply conditional formatting.
+  Transform your data by asking Copilot to format your Excel tables. You can highlight top values, filter specific entries, or sort data. For example, ask Copilot to highlight the top 3 values in a column, and it will apply conditional formatting. [Learn more.](https://support.microsoft.com/topic/05302e3f-de42-4475-b235-be9cb3d4e936)
 ### Microsoft Loop
 - **Experience Visual Updates to the Copilot Block** [Web]  
   The Copilot Block now blends more naturally into your page, with AI interactions happening in the right margin.
 - **Generate Page Summaries with Copilot in Loop** [Web]  
-  Insert a 'Page Summary' component to have Copilot summarize the content on your current Loop page.
+  Insert a 'Page Summary' component to have Copilot summarize the content on your current Loop page. [Learn more.](https://support.microsoft.com/topic/5e2c071f-c734-4798-a7a5-2c9d8fa648d1)
 - **Get Insights from Your Current Page Content** [Web]  
-  Copilot can answer questions based on the content on your current Loop page, providing summaries and analyses.
+  Copilot can answer questions based on the content on your current Loop page, providing summaries and analyses. [Learn more.](https://support.microsoft.com/topic/b5baf628-c39c-44e8-8b2f-d67bf23f9af6)
 - **Rewrite Existing Content with Copilot** [Web]  
-  Leverage Copilot to help rewrite, supplement, or gain insights from content that already exists in Loop.
+  Leverage Copilot to help rewrite, supplement, or gain insights from content that already exists in Loop. [Learn more.](https://support.microsoft.com/topic/a3057c16-a065-49e8-ad04-e0a453168377)
 - **Summarize and Share Changes with Your Team** [Web]  
-  Use the Recap experience to have Copilot generate a summary of your changes and share it with your team.
+  Use the Recap experience to have Copilot generate a summary of your changes and share it with your team. [Learn more.](https://support.microsoft.com/topic/e0044a51-6919-46bf-8dac-2e4f300988d5)
 ### Microsoft Purview
 - **Microsoft Purview capabilities for Microsoft Copilot (Microsoft 365)** [Web]  
   Microsoft Purview is launching several capabilities that help with security and compliance of data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance.
@@ -1035,15 +1057,15 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Automatically add an agenda slide to your presentation** [Desktop, Web, iOS, Mac]  
   Generate and insert an agenda slide based on your existing content, helping you prepare your audience for what's ahead.
 - **Create presentations using your organization's templates** [Desktop, Web, iOS, Mac]  
-  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand.
+  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. [Learn more.](https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d)
 - **Edit your presentation in Copilot chat** [Desktop, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process.
+  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. [Learn more.](https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80)
 - **Get answers about your presentation** [Desktop, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Desktop, Web, iOS, Mac]  
-  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation.
+  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation. [Learn more.](https://support.microsoft.com/topic/a207eea3-7a56-4225-88f1-54dd37cdcf6a)
 - **Summarize your presentation and identify key points** [Desktop, Web, iOS, Mac]  
-  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information.
+  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information. [Learn more.](https://support.microsoft.com/topic/499e604c-4ab9-4f6a-9dbe-691cc87f2f69)
 ### Word
 - **Apply highest sensitivity label to generated content** [Desktop, Web, iOS, Mac]  
   Ensure your documents maintain appropriate confidentiality levels as labels are automatically updated when referencing files with higher sensitivity.
@@ -1059,6 +1081,10 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Use voice to dictate into the Copilot chat prompt field
 - **Visualize as Table** [Web]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling.
+## September, 2023
+### Outlook
+- **Meeting Recap in Calendar** [Desktop, Web]  
+  After a meeting ends, open the event from your calendar to view the meeting summary, mentions, tasks, and more, helping you catch up and collaborate asynchronously.
 ## July, 2023
 ### Microsoft 365 admin center
 - **Access Microsoft 365 Copilot usage reports in Microsoft 365 admin center** [Web]  
@@ -1072,9 +1098,11 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Get quick summaries of email threads in Outlook** [Web]  
   Receive concise summaries of email conversations, helping you stay informed without reading every message.
 ## April, 2023
+### OneDrive
 - **Share Word Documents with AI-Generated Summaries** [Web]  
   Users can now include an AI-generated summary when sharing Word documents, helping recipients understand content quickly and collaborate efficiently.
 ## March, 2023
+### Microsoft Loop
 - **Collaborate with Copilot in Loop** [Web]  
   Work together with Copilot and your team to create content, generate ideas, and refine results collaboratively.
 
@@ -1083,12 +1111,15 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 <!--- All features that have 'Android' tag  -->
 
 ## November, 2024
+### Business Chat
 - **Focus Copilot responses on specific emails in Business Chat** [Desktop, Web, Android, iOS, Mac]  
-  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you. [Learn more.](N/A)
+  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you.
 ## October, 2024
+### Outlook
 - **Rewrite selected text in emails using Copilot** [Desktop, Web, Android, iOS, Mac]  
   Select specific parts of your drafted email and ask Copilot to rewrite it or provide more information to rewrite it. Provide detailed instructions or adjust the tone and length to suit your needs.
 ## September, 2024
+### Outlook
 - **Instantly apply coaching suggestions from Copilot to your emails** [Web, Android, iOS, Mac]  
   Improve your email writing with Coaching by Copilot. Request a full rewrite based on Copilot's feedback or apply the suggestions with a single click.
 ## August, 2024
@@ -1104,6 +1135,7 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Copilot Business Chat in Outlook Mobile** [Android, iOS]  
   The Copilot Business Chat experience is now available in Outlook for iOS and Android. Enhance your mobile email experience with AI-powered assistance on the go.
 ## July, 2024
+### Viva Insights
 - **Microsoft Copilot Dashboard powered by Viva Insights** [Desktop, Web, Android, iOS, Mac]  
   The Microsoft Copilot Dashboard available to all Copilot for Microsoft 365 customers at no extra cost. Access it via the Viva Insights app to monitor Copilot adoption and impact. [Learn more.](https://learn.microsoft.com/viva/insights/org-team-insights/copilot-dashboard)
 ## April, 2024
@@ -1113,26 +1145,32 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 ### Microsoft Teams
 - **Copilot Understands Previous Conversations in Chats and Channels** [Android, iOS]  
   When you ask follow-up questions in chats or channels, Copilot now has context from past interactions to provide more accurate answers.
+## March, 2024
+### Business Chat
+- **Rich entity representations in Copilot responses** [Desktop, Web, Android, iOS, Mac]  
+  Copilot now provides richer representations of entities like people, events, and files within responses, enhancing context and usability.
 ## November, 2023
 ### Microsoft Teams
 - **Copilot to summarize and answer Q&A in Teams Chat** [Desktop, Web, Android, iOS, Mac]  
   Copilot helps you catch up on conversations by providing summaries and answering questions in Teams chats.
 ### Outlook
 - **Compose emails effortlessly on Outlook for Android** [Android]  
-  Provide a prompt and generate a full email. Customize the tone and length to suit your needs, streamlining your email writing process.
+  Provide a prompt and generate a full email. Customize the tone and length to suit your needs, streamlining your email writing process. [Learn more.](https://support.microsoft.com/topic/3eb1d053-89b8-491c-8a6e-746015238d9b)
 - **Summarize email conversations on Outlook for Android and iOS** [Android, iOS]  
-  Quickly get summaries of entire email threads, helping you catch up on conversations efficiently.
+  Quickly get summaries of entire email threads, helping you catch up on conversations efficiently. [Learn more.](https://support.microsoft.com/topic/a79873f2-396b-46dc-b852-7fe5947ab640)
 
 #### [iOS](#tab/ios)
 
 <!--- All features that have 'iOS' tag  -->
 
 ## December, 2024
+### OneNote
 - **Use Copilot in OneNote on Mac and iPad** [iOS, Mac]  
-  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. [Learn more.](N/A)
+  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go.
 ## November, 2024
+### Business Chat
 - **Focus Copilot responses on specific emails in Business Chat** [Desktop, Web, Android, iOS, Mac]  
-  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you. [Learn more.](N/A)
+  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you.
 ## October, 2024
 ### Outlook
 - **Rewrite selected text in emails using Copilot** [Desktop, Web, Android, iOS, Mac]  
@@ -1199,10 +1237,16 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 ### Microsoft Teams
 - **Copilot Understands Previous Conversations in Chats and Channels** [Android, iOS]  
   When you ask follow-up questions in chats or channels, Copilot now has context from past interactions to provide more accurate answers.
+## March, 2024
+### Business Chat
+- **Rich entity representations in Copilot responses** [Desktop, Web, Android, iOS, Mac]  
+  Copilot now provides richer representations of entities like people, events, and files within responses, enhancing context and usability.
 ## February, 2024
+### Word
 - **Summarize your document using chat prompts** [iOS]  
   Ask via chat to summarize your document, highlighting key points for quick understanding and review.
 ## January, 2024
+### Word
 - **Get answers and enhance content with chat in Word** [iOS]  
   Ask specific questions about your document or request additional details to enhance your content, making your writing process more efficient.
 ## November, 2023
@@ -1211,24 +1255,24 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Copilot helps you catch up on conversations by providing summaries and answering questions in Teams chats.
 ### Outlook
 - **Compose emails effortlessly on Outlook for iOS** [iOS]  
-  Provide a prompt and generate a full email. Customize the tone and length to suit your needs, streamlining your email writing process.
+  Provide a prompt and generate a full email. Customize the tone and length to suit your needs, streamlining your email writing process. [Learn more.](https://support.microsoft.com/topic/3eb1d053-89b8-491c-8a6e-746015238d9b)
 - **Summarize email conversations on Outlook for Android and iOS** [Android, iOS]  
-  Quickly get summaries of entire email threads, helping you catch up on conversations efficiently.
+  Quickly get summaries of entire email threads, helping you catch up on conversations efficiently. [Learn more.](https://support.microsoft.com/topic/a79873f2-396b-46dc-b852-7fe5947ab640)
 ### PowerPoint
 - **Automatically add an agenda slide to your presentation** [Desktop, Web, iOS, Mac]  
   Generate and insert an agenda slide based on your existing content, helping you prepare your audience for what's ahead.
 - **Convert Word documents into presentations** [Desktop, iOS, Mac]  
-  Transform your Word documents into fully designed PowerPoint presentations, simplifying the creation process.
+  Transform your Word documents into fully designed PowerPoint presentations, simplifying the creation process. [Learn more.](https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d)
 - **Create presentations using your organization's templates** [Desktop, Web, iOS, Mac]  
-  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand.
+  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. [Learn more.](https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d)
 - **Edit your presentation in Copilot chat** [Desktop, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process.
+  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. [Learn more.](https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80)
 - **Get answers about your presentation** [Desktop, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Desktop, Web, iOS, Mac]  
-  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation.
+  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation. [Learn more.](https://support.microsoft.com/topic/a207eea3-7a56-4225-88f1-54dd37cdcf6a)
 - **Summarize your presentation and identify key points** [Desktop, Web, iOS, Mac]  
-  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information.
+  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information. [Learn more.](https://support.microsoft.com/topic/499e604c-4ab9-4f6a-9dbe-691cc87f2f69)
 ### Word
 - **Apply highest sensitivity label to generated content** [Desktop, Web, iOS, Mac]  
   Ensure your documents maintain appropriate confidentiality levels as labels are automatically updated when referencing files with higher sensitivity.
@@ -1242,12 +1286,13 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 <!--- All features that have 'Mac' tag  -->
 
 ## December, 2024
+### OneNote
 - **Use Copilot in OneNote on Mac and iPad** [iOS, Mac]  
-  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. [Learn more.](N/A)
+  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go.
 ## November, 2024
 ### Business Chat
 - **Focus Copilot responses on specific emails in Business Chat** [Desktop, Web, Android, iOS, Mac]  
-  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you. [Learn more.](N/A)
+  Narrow down Copilot responses by specifying a particular email folder, sub-folder, or subject line. Get more precise assistance by directing Copilot to the emails that matter most to you.
 ### Word
 - **Reference larger files and write longer prompts with Copilot** [Desktop, Web, Mac]  
   Create more detailed drafts by writing prompts over 2,000 characters and referencing files totaling up to 75,000 words.
@@ -1340,6 +1385,7 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Use Draft with Copilot in Word based on text, list, or table selection** [Desktop, Mac]  
   Use Draft with Copilot in Word with the on-canvas Copilot menu when a user selects text, a list, or a table, which generates new content from Copilot and provides a richer, more interactive experience.
 ## May, 2024
+### Word
 - **Use a url to reference supported files in Copilot in Word** [Desktop, Mac]  
   Users can copy-paste a link of a supported file into the Draft with Copilot UI as a reference, instead of searching for it in the file reference menu.
 ## April, 2024
@@ -1352,6 +1398,10 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Draft with Copilot supports referencing files encrypted with sensitivity labels** [Desktop, Web, Mac]  
   Draft with Copilot now allows you to reference files encrypted with sensitivity labels, ensuring secure document creation.
 ## March, 2024
+### Business Chat
+- **Rich entity representations in Copilot responses** [Desktop, Web, Android, iOS, Mac]  
+  Copilot now provides richer representations of entities like people, events, and files within responses, enhancing context and usability.
+### Excel
 - **Enable Copilot in Excel by Saving Files to OneDrive or SharePoint** [Desktop, Mac]  
   To use Copilot in Excel, save your files to OneDrive or SharePoint with AutoSave on. You'll receive prompts to help you set this up if needed.
 - **Speak to Copilot in Excel with New Input Methods** [Desktop, Web, Mac]  
@@ -1364,9 +1414,11 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Copilot Side Pane Stays Open Across Group Chats** [Desktop, Mac]  
   When you open Copilot in a group chat, it will remain open even as you navigate between different chats, saving you time.
 ## January, 2024
+### Excel
 - **Enjoy Conversational Copilot in Excel** [Desktop, Web, Mac]  
   Copilot in Excel now remembers the context of your chats, allowing for follow-up questions and clarifications for a smoother experience.
 ## December, 2023
+### Word
 - **Visualize as Table** [Mac]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling. [Learn more.](https://support.microsoft.com/topic/923d9763-f896-4da7-8a3f-5b12c3bfc475)
 ## November, 2023
@@ -1375,11 +1427,11 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
   Your single destination to take on any task, combining AI power with your work content to draft content, catch up, and get answers. [Learn more.](https://support.microsoft.com/topic/5b00a52d-7296-48ee-b938-b95b7209f737)
 ### Excel
 - **Add Formula Columns with Copilot** [Desktop, Web, Mac]  
-  Copilot provides formula suggestions with explanations, helping you create new columns based on your data.
+  Copilot provides formula suggestions with explanations, helping you create new columns based on your data. [Learn more.](https://support.microsoft.com/topic/d866d926-9791-4e5f-be2a-c6dd9e587a47)
 - **Generate Data Insights with Copilot** [Desktop, Web, Mac]  
-  Copilot can suggest insights like summaries, trends, and outliers, returning results as charts or PivotTables to enhance your analysis.
+  Copilot can suggest insights like summaries, trends, and outliers, returning results as charts or PivotTables to enhance your analysis. [Learn more.](https://support.microsoft.com/topic/52d97339-86c0-431c-b46c-e7b07b2898dd)
 - **Use Copilot to Highlight, Filter, and Sort Data in Excel Tables** [Desktop, Web, Mac]  
-  Transform your data by asking Copilot to format your Excel tables. You can highlight top values, filter specific entries, or sort data. For example, ask Copilot to highlight the top 3 values in a column, and it will apply conditional formatting.
+  Transform your data by asking Copilot to format your Excel tables. You can highlight top values, filter specific entries, or sort data. For example, ask Copilot to highlight the top 3 values in a column, and it will apply conditional formatting. [Learn more.](https://support.microsoft.com/topic/05302e3f-de42-4475-b235-be9cb3d4e936)
 ### Microsoft Teams
 - **Copilot to summarize and answer Q&A in Teams Chat** [Desktop, Web, Android, iOS, Mac]  
   Copilot helps you catch up on conversations by providing summaries and answering questions in Teams chats.
@@ -1387,17 +1439,17 @@ Explore the exciting new capabilities and improvements that Microsoft 365 Copilo
 - **Automatically add an agenda slide to your presentation** [Desktop, Web, iOS, Mac]  
   Generate and insert an agenda slide based on your existing content, helping you prepare your audience for what's ahead.
 - **Convert Word documents into presentations** [Desktop, iOS, Mac]  
-  Transform your Word documents into fully designed PowerPoint presentations, simplifying the creation process.
+  Transform your Word documents into fully designed PowerPoint presentations, simplifying the creation process. [Learn more.](https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d)
 - **Create presentations using your organization's templates** [Desktop, Web, iOS, Mac]  
-  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand.
+  Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. [Learn more.](https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d)
 - **Edit your presentation in Copilot chat** [Desktop, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process.
+  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. [Learn more.](https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80)
 - **Get answers about your presentation** [Desktop, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Desktop, Web, iOS, Mac]  
-  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation.
+  Structure your slides, add sections, and insert an agenda slide to improve the overall flow of your presentation. [Learn more.](https://support.microsoft.com/topic/a207eea3-7a56-4225-88f1-54dd37cdcf6a)
 - **Summarize your presentation and identify key points** [Desktop, Web, iOS, Mac]  
-  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information.
+  Generate summaries, highlight key slides, and identify action items from your presentation, making it easier to review and share essential information. [Learn more.](https://support.microsoft.com/topic/499e604c-4ab9-4f6a-9dbe-691cc87f2f69)
 ### Word
 - **Apply highest sensitivity label to generated content** [Desktop, Web, iOS, Mac]  
   Ensure your documents maintain appropriate confidentiality levels as labels are automatically updated when referencing files with higher sensitivity.
