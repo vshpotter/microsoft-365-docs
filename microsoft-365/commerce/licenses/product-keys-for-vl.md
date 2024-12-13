@@ -88,7 +88,7 @@ Because the product key is automatically detected, you don’t need to identify 
 3. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=2297371" target="_blank">Products and services</a> page, find the **Product Name** for SQL Server, then select the **View downloads** icon (down arrow).
 4. In the product details panel, select one or more **Components**, then select **Download**.
 5. On your computer, open the downloaded file, then open the folder named **x64**.
-6. Open the DefaultSetup.ini file. The SQL license product key is displayed inside the file.
+6. Open the _DefaultSetup.ini_ file. The SQL license product key is displayed inside the file.
 
 If you need help with troubleshooting technical issues during product installation or online service activation, contact Microsoft Technical Support by submitting a [Technical Support request](https://support.microsoft.com/oas).
 
@@ -98,7 +98,7 @@ You don't need a volume license product key or product setup key from the volume
 
 After you download the server media, you activate the product by completing the product activation wizard. The wizard walks you through the steps to connect the server with the Microsoft Clearing House via the internet to validate the data. Alternatively, for offline servers, the activation wizard offers phone or web activation. For more information, see [Activate the Remote Desktop Services license server](/windows-server/remote/remote-desktop-services/rds-activate-license-server).
 
-During the [Terminal Server activation process](/troubleshoot/windows-server/remote/terminal-server-license-for-deployment?source=recommendations#method-1-for-windows-xp-professional-licenses-that-were-obtained-through-the-volume-licensing-program), you’re asked to select the **License Program and Agreement Number**.
+During the [Terminal Server activation process](/troubleshoot/windows-server/remote/terminal-server-license-for-deployment?source=recommendations#method-1-for-windows-xp-professional-licenses-that-were-obtained-through-the-volume-licensing-program), you're asked to select the **License Program and Agreement Number**.
 
 If you're unsure of the program type for the License ID used to buy your RDS Client Access Licenses (CALs), go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2297440" target="_blank">Contracts</a> page and check the **Parent program** column.
 
@@ -142,7 +142,7 @@ There are minimum activation thresholds that must be met. The activation thresho
 A Multiple Activation Key (MAK) is the recommended activation method for licenses bought under the Open Value or Open Value Subscription volume licensing agreement.
 However, in some limited exceptions, KMS keys might be assigned to Open Value or Open Value Subscription licenses for customers who meet the minimum KMS activation threshold for Windows Server, Windows Operating System, and Microsoft 365.
 
-To request an exception, you must have the Administrator or Product Key Reader volume license role. To submit the request,  provide the following information on [this web form](https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=2afa6f15-b710-db46-909a-8346017c802f):
+To request an exception, you must have the Administrator or Product Key Reader volume license role. To submit the request, provide the following information on [this web form](https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=2afa6f15-b710-db46-909a-8346017c802f):
 
 - Agreement / Enrollment Number or License ID
 - Product Name (including version and edition)
@@ -150,7 +150,7 @@ To request an exception, you must have the Administrator or Product Key Reader v
 - Business justification or reason for deployment
 
 > [!NOTE]
-> This exception doesn’t apply to Open License which retired in December 2021.
+> This exception doesn't apply to Open License which retired in December 2021.
 
 ### Request more KMS host keys
 
