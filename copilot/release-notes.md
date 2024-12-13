@@ -27,9 +27,7 @@ appliesto:
 This page lists the latest features and improvements for Microsoft Copilot. It includes updates that are Generally Available (Current Channel for Office client) and platform-specific release notes.
 
 #### [All features](#tab/all)
-
 <!--- All features regardless of platform go here  -->
-
 ## December, 2024
 ### Microsoft 365 Copilot
 - **Microsoft 365 Copilot GCC general availability** [Desktop, Web]  
