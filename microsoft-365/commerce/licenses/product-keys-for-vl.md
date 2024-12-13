@@ -71,9 +71,7 @@ If you bought Extended Security Update (ESU) licenses, you can activate them wit
 > [!NOTE]
 > You can order ESU licenses before the start of the ESU coverage period. However, the ESU MAKs displayed in the Product keys details panel aren’t usable until the defined ESU coverage period begins. For more information, see [Product Lifecycle FAQ - Extended Security Updates](/lifecycle/faq/extended-security-updates).
 
-<!--
-To verify you have ESU licenses, go to the **Billing** > **Your products** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2244144" target="_blank">Volume licensing</a> page. In the **Transactions** section, select **View orders** and check the order status is submitted.
--->
+To verify that you have ESU licenses, go to the **Billing** > **Your products** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2244144" target="_blank">Volume licensing</a> page. In the **Transactions** section, select **View orders**. If the order appears in the list, it means the order was submitted.
 
 To buy new ESU licenses, contact your Microsoft Seller or Licensing Solution Partner.
 
@@ -232,9 +230,8 @@ Submit a case in the admin center > <a href="https://go.microsoft.com/fwlink/p/?
 
 ## Related content
 
-[Download volume licensing products](download-vl-products.md) (article)\
-[Online service activation for Open programs FAQ](online-service-activation-faq.yml) (article)\
-[Volume Activation Management Tool (VAMT) Technical Reference](/windows/deployment/volume-activation/volume-activation-management-tool) (article)\
-[Managing Activation Using the Volume Activation Management Tool (VAMT)](/previous-versions/tn-archive/ff686876(v=technet.10)) (article)\
-[Tools to manage volume activation of Office](/deployoffice/vlactivation/tools-to-manage-volume-activation-of-office) (article)\
+[Download volume licensing products](download-vl-products.md) (article)  
+[Online service activation for Open programs FAQ](online-service-activation-faq.yml) (article)  
+[Volume Activation Management Tool (VAMT) Technical Reference](/windows/deployment/volume-activation/volume-activation-management-tool) (article)  
+[Tools to manage volume activation of Office](/deployoffice/vlactivation/tools-to-manage-volume-activation-of-office) (article)  
 [Volume Activation for Windows](/windows/deployment/volume-activation/volume-activation-windows-10) (article)
