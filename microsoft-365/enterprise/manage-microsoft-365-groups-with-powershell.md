@@ -1,8 +1,8 @@
 ---
 title: "Manage Microsoft 365 Groups with PowerShell"
-ms.author: jtremper
-author: jacktremper
-manager: pamgreen
+author: DaniEASmith
+ms.author: danismith
+manager: jtremper
 ms.date: 9/29/2023
 audience: Admin
 ms.topic: article
