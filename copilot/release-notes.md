@@ -24,7 +24,8 @@ appliesto:
 
 # Microsoft 365 Copilot release notes
 
-This page lists the latest features and improvements for Microsoft Copilot. It includes updates that are Generally Available (Current Channel for Office client) and platform-specific release notes.
+This page lists the latest features and improvements for Microsoft 365 Copilot. It includes updates that are Generally Available (Current Channel for Office client) and platform-specific release notes.
+This is our initial version of Microsoft 365 Copilot release notes. We will use your feedback to improve this content over time.
 
 #### [All features](#tab/all)
 <!--- All features regardless of platform go here  -->
@@ -500,7 +501,7 @@ This page lists the latest features and improvements for Microsoft Copilot. It i
 - **Visualize as Table** [Web]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling.
 
-#### [Desktop](#tab/desktop)
+#### [Windows](#tab/windows)
 
 <!--- All features that have 'Desktop' tag  -->
 
