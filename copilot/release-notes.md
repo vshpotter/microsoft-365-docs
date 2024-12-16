@@ -28,7 +28,7 @@ This page lists the latest features and improvements for Microsoft 365 Copilot. 
 
 This is our preview version of Microsoft 365 Copilot release notes. We will use your feedback to improve this content over time.
 
-#### [All features](#tab/all)
+## [All features](#tab/all)
 
 <!--- All features regardless of platform go here  -->
 
@@ -530,7 +530,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Visualize as Table** [Web]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling. [Learn more.](https://support.microsoft.com/topic/923d9763-f896-4da7-8a3f-5b12c3bfc475)
 
-#### [Windows](#tab/windows)
+## [Windows](#tab/windows)
 
 <!--- All features that have 'Windows' tag  -->
 
@@ -825,7 +825,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Use voice prompts for assistance** [Windows, Web, Mac]  
   Use voice to dictate into the Copilot chat prompt field
 
-#### [Web](#tab/web)
+## [Web](#tab/web)
 
 <!--- All features that have 'Web' tag  -->
 
@@ -1195,7 +1195,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Visualize as Table** [Web]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling. [Learn more.](https://support.microsoft.com/topic/923d9763-f896-4da7-8a3f-5b12c3bfc475)
 
-#### [Android](#tab/android)
+## [Android](#tab/android)
 
 <!--- All features that have 'Android' tag  -->
 
@@ -1267,7 +1267,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Summarize email conversations on Outlook for Android and iOS** [Android, iOS]  
   Quickly get summaries of entire email threads, helping you catch up on conversations efficiently. [Learn more.](https://support.microsoft.com/topic/a79873f2-396b-46dc-b852-7fe5947ab640)
 
-#### [iOS](#tab/ios)
+## [iOS](#tab/ios)
 
 <!--- All features that have 'iOS' tag  -->
 
@@ -1454,7 +1454,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Rewrite with Copilot** [Windows, Web, iOS, Mac]  
   Get suggestions for how to rewrite any text in your document, enhancing clarity and effectiveness. [Learn more.](https://support.microsoft.com/topic/923d9763-f896-4da7-8a3f-5b12c3bfc475)
 
-#### [Mac](#tab/mac)
+## [Mac](#tab/mac)
 
 <!--- All features that have 'Mac' tag  -->
 
