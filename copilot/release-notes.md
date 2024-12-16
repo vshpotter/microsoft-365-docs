@@ -530,7 +530,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Visualize as Table** [Web]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling. [Learn more.](https://support.microsoft.com/topic/923d9763-f896-4da7-8a3f-5b12c3bfc475)
 
-## [Windows](#tab/windows)
+## [Windows](#tab/win)
 
 <!--- All features that have 'Windows' tag  -->
 
