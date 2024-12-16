@@ -24,9 +24,9 @@ appliesto:
 
 # Microsoft 365 Copilot release notes (preview)
 
-This page lists the latest features and improvements for Microsoft 365 Copilot. It includes updates that are Generally Available (Current Channel for Microsoft 365 apps) and platform-specific release notes.
+This page lists the latest features and improvements for Microsoft 365 Copilot. It includes changes that are Generally Available (Current Channel for Microsoft 365 apps) and specific to each platform.
 
-This is our initial version of Microsoft 365 Copilot release notes. We will use your feedback to improve this content over time.
+This is our preview version of Microsoft 365 Copilot release notes. We will use your feedback to improve this content over time.
 
 #### [All features](#tab/all)
 
