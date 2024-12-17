@@ -81,7 +81,7 @@ To assign licenses:
 
 2. Select the users that you want to license, and choose **Manage product licenses**.
 
-3. Choose **Apps** from the drop-down menu.
+3. Choose **Apps** from the dropdown menu.
 
 4. Select **Show apps for  Syntex**. Under **Apps**, make sure **Common Data Service for Syntex**, **Syntex**, and **Syntex - SPO type** are all selected.
 
