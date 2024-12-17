@@ -1,5 +1,5 @@
 ---
-title: Set up pay-as-you-go services in SharePoint
+title: Set up pay-as-you-go services for SharePoint
 ms.author: chucked
 author: chuckedmonson
 ms.reviewer: ssquires, kkameth
@@ -20,7 +20,7 @@ ms.localizationpriority: medium
 description: Learn how to set up Microsoft Syntex content AI features in the Microsoft 365 admin center.
 ---
 
-# Set up pay-as-you-go services in SharePoint
+# Set up pay-as-you-go services for SharePoint
 
 This article describes how to set up pay-as-you-go services for SharePoint content AI features. Before following the steps in this article, you need to [set up pay-as-you-go billing](syntex-azure-billing.md).
 
@@ -30,7 +30,7 @@ You must have Global admin or SharePoint admin permissions to be able to access 
 
 As an admin, you can also make changes to your selected settings anytime in the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Microsoft 365 admin center</a>.
 
-## Set up Microsoft Syntex services
+## Set up pay-as-you-go services
 
 1. In the Microsoft 365 admin center, select <a href="https://go.microsoft.com/fwlink/p/?linkid=2171997" target="_blank">**Setup**</a>, and then view the **Files and content** section.
 
@@ -81,4 +81,4 @@ The following tables provides links to the specific setup instructions for each 
 |SharePoint Embedded     | [Set up SharePoint Enbedded](/sharepoint/dev/embedded/concepts/admin-exp/billing/billing) |
 
 > [!Note]
-> For information about setting up SharePoint Advanced Management, see [Microsoft Syntex - SharePoint Advanced Management overview](/sharepoint/advanced-management).
+> For information about how to set up SharePoint Advanced Management, see [Microsoft Syntex - SharePoint Advanced Management overview](/sharepoint/advanced-management).
