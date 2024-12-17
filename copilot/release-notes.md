@@ -152,7 +152,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Copilot in Excel, now no longer in Preview but Generally Available, works alongside you to analyze and explore your data, answering questions in natural language and revealing insights without the need for complex formulas. <a href="https://support.microsoft.com/topic/d7110502-0334-4b4f-a175-a73abdfc118a" target="_blank">Learn more.</a>
 ### Microsoft 365 admin center
 - **Identify suggested candidates for Copilot licensing** [Web]  
-  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness#additional-details-for-suggested-candidate-for-copilot" target="_blank">Learn more.</a>
+  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely to get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness#additional-details-for-suggested-candidate-for-copilot" target="_blank">Learn more.</a>
 ### Microsoft 365 Copilot
 - **AI-generated Images with Copilot and Microsoft Designer** [Windows, Web, Mac]  
   Microsoft Designer integration in Copilot chat allows you to generate that perfect image, providing limitless creativity and bringing your presentations to life. <a href="https://support.microsoft.com/topic/6cd168f3-1cf0-478e-bd75-31d6526d2504" target="_blank">Learn more.</a>
@@ -195,7 +195,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Copilot Prompt Gallery is now available on iOS and Android** [Android, iOS]  
   Explore and use suggested prompts in Copilot Prompt Gallery within the Teams app on iOS and Android. Stay productive with ready-made prompts to use on the go.
 - **Try prompts directly from the Copilot Prompt Gallery website** [Windows, Web]  
-  Quickly launch suggested prompts from the Copilot Prompt Gallery website in Microsoft 365 Copilot Busisness Chat by clicking the "Try in" button on the prompt card.
+  Quickly launch suggested prompts from the Copilot Prompt Gallery website in Microsoft 365 Copilot Business Chat by clicking the "Try in" button on the prompt card.
 ### Excel
 - **Custom chart and PivotTable creation** [Windows, Web, iOS, Mac]  
   You can now ask Copilot for more specific charts and PivotTables, including specifying the X and Y axes. Customize your data presentations more precisely.
@@ -538,7 +538,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Create presentations using your organization's templates** [Windows, Web, iOS, Mac]  
   Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. <a href="https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d" target="_blank">Learn more.</a>
 - **Edit your presentation in Copilot chat** [Windows, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
+  Add slides, add animations, or organze your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
 - **Get answers about your presentation** [Windows, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Windows, Web, iOS, Mac]  
@@ -671,7 +671,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## August, 2024
 ### Copilot Prompt Gallery
 - **Try prompts directly from the Copilot Prompt Gallery website** [Windows, Web]  
-  Quickly launch suggested prompts from the Copilot Prompt Gallery website in Microsoft 365 Copilot Busisness Chat by clicking the "Try in" button on the prompt card.
+  Quickly launch suggested prompts from the Copilot Prompt Gallery website in Microsoft 365 Copilot Business Chat by clicking the "Try in" button on the prompt card.
 ### Excel
 - **Custom chart and PivotTable creation** [Windows, Web, iOS, Mac]  
   You can now ask Copilot for more specific charts and PivotTables, including specifying the X and Y axes. Customize your data presentations more precisely.
@@ -873,7 +873,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Create presentations using your organization's templates** [Windows, Web, iOS, Mac]  
   Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. <a href="https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d" target="_blank">Learn more.</a>
 - **Edit your presentation in Copilot chat** [Windows, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
+  Add slides, add animations, or orgnanze your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
 - **Get answers about your presentation** [Windows, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Windows, Web, iOS, Mac]  
@@ -1023,7 +1023,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## August, 2024
 ### Copilot Prompt Gallery
 - **Try prompts directly from the Copilot Prompt Gallery website** [Windows, Web]  
-  Quickly launch suggested prompts from the Copilot Prompt Gallery website in Microsoft 365 Copilot Busisness Chat by clicking the "Try in" button on the prompt card.
+  Quickly launch suggested prompts from the Copilot Prompt Gallery website in Microsoft 365 Copilot Business Chat by clicking the "Try in" button on the prompt card.
 ### Excel
 - **Custom chart and PivotTable creation** [Windows, Web, iOS, Mac]  
   You can now ask Copilot for more specific charts and PivotTables, including specifying the X and Y axes. Customize your data presentations more precisely.
@@ -1271,7 +1271,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Create presentations using your organization's templates** [Windows, Web, iOS, Mac]  
   Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. <a href="https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d" target="_blank">Learn more.</a>
 - **Edit your presentation in Copilot chat** [Windows, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
+  Add slides, add animations, or organize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
 - **Get answers about your presentation** [Windows, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Windows, Web, iOS, Mac]  
@@ -1597,7 +1597,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Create presentations using your organization's templates** [Windows, Web, iOS, Mac]  
   Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. <a href="https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d" target="_blank">Learn more.</a>
 - **Edit your presentation in Copilot chat** [Windows, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
+  Add slides, add animations, or organize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
 - **Get answers about your presentation** [Windows, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Windows, Web, iOS, Mac]  
@@ -1830,7 +1830,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Create presentations using your organization's templates** [Windows, Web, iOS, Mac]  
   Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. <a href="https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d" target="_blank">Learn more.</a>
 - **Edit your presentation in Copilot chat** [Windows, Web, iOS, Mac]  
-  Add slides, add animations, or orgnaize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
+  Add slides, add animations, or organize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
 - **Get answers about your presentation** [Windows, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Windows, Web, iOS, Mac]  
