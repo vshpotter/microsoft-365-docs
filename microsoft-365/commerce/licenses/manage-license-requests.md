@@ -108,4 +108,4 @@ If you don’t have the authority within your organization to make decisions abo
 [Assign licenses to users](../../admin/manage/assign-licenses-to-users.md) (article)\
 [Move users to a different subscription](../subscriptions/move-users-different-subscription.md) (article)\
 [Buy or remove subscription licenses](buy-licenses.md) (article)\
-[Self-service purchase FAQ](../subscriptions/self-service-purchase-faq.yml)
+[Self-service purchase FAQ](../subscriptions/self-service-purchase-faq.yml) (article)
