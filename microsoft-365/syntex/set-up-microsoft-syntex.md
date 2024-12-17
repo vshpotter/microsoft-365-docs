@@ -1,10 +1,10 @@
 ---
-title: Set up Microsoft Syntex
+title: Set up pay-as-you-go services in SharePoint
 ms.author: chucked
 author: chuckedmonson
 ms.reviewer: ssquires, kkameth
 manager: jtremper
-ms.date: 05/07/2024
+ms.date: 07/07/2024
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
@@ -20,15 +20,9 @@ ms.localizationpriority: medium
 description: Learn how to set up Microsoft Syntex content AI features in the Microsoft 365 admin center.
 ---
 
-# Set up Microsoft Syntex
+# Set up pay-as-you-go services in SharePoint
 
-This article covers the initial setup experience for Microsoft Syntex content AI features. Before following the steps in this article, configure your [billing and licensing options](syntex-licensing.md) as follows:
-
-- If you are using Microsoft Syntex pay-as-you-go, follow the steps in [Configure Microsoft Syntex for pay-as-you-go billing in Azure](syntex-azure-billing.md).
-- If you are using per-user licensing, follow the steps in [Set up Microsoft Syntex per-user licensing](set-up-content-understanding.md).
-
-> [!Note]
-> For information about setting up Microsoft Syntex - SharePoint Advanced Management, see [Microsoft Syntex - SharePoint Advanced Management overview](/sharepoint/advanced-management).
+This article describes how to set up pay-as-you-go services for SharePoint content AI features. Before following the steps in this article, you need to [set up pay-as-you-go billing](syntex-azure-billing.md).
 
 ## Requirements
 
@@ -50,7 +44,7 @@ As an admin, you can also make changes to your selected settings anytime in the 
 
 ### Setup instructions by service
 
-The following table provides links to the specific setup instructions for each service.
+The following tables provides links to the specific setup instructions for each service.
 
 #### Document and image services
 
@@ -85,3 +79,6 @@ The following table provides links to the specific setup instructions for each s
 |Service |Instructions to set up service |
 |:-------|:----------------------|
 |SharePoint Embedded     | [Set up SharePoint Enbedded](/sharepoint/dev/embedded/concepts/admin-exp/billing/billing) |
+
+> [!Note]
+> For information about setting up SharePoint Advanced Management, see [Microsoft Syntex - SharePoint Advanced Management overview](/sharepoint/advanced-management).
