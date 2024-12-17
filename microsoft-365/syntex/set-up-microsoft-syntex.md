@@ -40,9 +40,9 @@ As an admin, you can also make changes to your selected settings anytime in the 
 
 1. In the Microsoft 365 admin center, select <a href="https://go.microsoft.com/fwlink/p/?linkid=2171997" target="_blank">**Setup**</a>, and then view the **Files and content** section.
 
-2. In the **Files and content** section, select **Use content AI with Microsoft Syntex**.
+2. In the **Files and content** section, select **Automate content processes with Syntex**.
 
-3. On the **Use content AI with Microsoft Syntex** page, select **Manage Microsoft Syntex**.
+3. On the **Automate content processes with Syntex** page, select **Go to Syntex settings**.
 
 4. Select the Microsoft Syntex service that you want to set up.
 
@@ -52,18 +52,36 @@ As an admin, you can also make changes to your selected settings anytime in the 
 
 The following table provides links to the specific setup instructions for each service.
 
+#### Document and image services
+
 |Service |Instructions to set up service |
 |:-------|:----------------------|
-|Prebuilt document processing     | [Set up prebuilt document processing](prebuilt-setup.md) |
-|Structured and freeform document processing | [Set up structured and freeform document processing](structured-freeform-setup.md) |
-|Unstructured document processing | [Set up unstructured document processing](unstructured-setup.md) |
 |Autofill columns                 | [Set up autofill columns](autofill-setup.md)  |
 |Content assembly                 | [Set up content assembly](content-assembly-setup.md)  |
-|Image tagging                    | [Set up image tagging](image-tagging-setup.md)  |
-|Taxonomy tagging                 | [Set up taxonomy tagging](taxonomy-tagging-setup.md)  |
 |Document translation             | [Set up document translation](translation-setup.md)  |
-|Video translation                | [Set up video translation](https://prod.support.services.microsoft.com/office/2e34ad1b-e213-47ed-a806-5cc0d88751de#bkmk_enabletranslations)  |
-|Syntex eSignature                | [Set up Syntex eSignature](esignature-setup.md)  |
+|eSignature                       | [Set up SharePoint eSignature](esignature-setup.md)  |
+|Image tagging                    | [Set up image tagging](image-tagging-setup.md)  |
 |Optical character recognition    | [Set up optical character recognition](ocr.md)  |
+|Prebuilt document processing     | [Set up prebuilt document processing](prebuilt-setup.md) |
+|Structured and freeform document processing | [Set up structured and freeform document processing](structured-freeform-setup.md) |
+|Taxonomy tagging                 | [Set up taxonomy tagging](taxonomy-tagging-setup.md)  |
+|Unstructured document processing | [Set up unstructured document processing](unstructured-setup.md) |
+
+#### Video services
+
+|Service |Instructions to set up service |
+|:-------|:----------------------|
+|Video translation                | [Set up video translation](https://prod.support.services.microsoft.com/office/2e34ad1b-e213-47ed-a806-5cc0d88751de#bkmk_enabletranslations)  |
+
+#### Storage services
+
+|Service |Instructions to set up service |
+|:-------|:----------------------|
 |Microsoft 365 Archive            | [Set up Microsoft 365 Archive](archive/archive-setup.md)  |
 |Microsoft 365 Backup (Preview)   | [Set up Microsoft 365 Backup](backup/backup-setup.md)  |
+
+#### Apps
+
+|Service |Instructions to set up service |
+|:-------|:----------------------|
+|SharePoint Embedded     | [Set up SharePoint Enbedded](/sharepoint/dev/embedded/concepts/admin-exp/billing/billing) |
