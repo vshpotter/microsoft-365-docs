@@ -152,7 +152,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Copilot in Excel, now no longer in Preview but Generally Available, works alongside you to analyze and explore your data, answering questions in natural language and revealing insights without the need for complex formulas. <a href="https://support.microsoft.com/topic/d7110502-0334-4b4f-a175-a73abdfc118a" target="_blank">Learn more.</a>
 ### Microsoft 365 admin center
 - **Identify suggested candidates for Copilot licensing** [Web]  
-  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness?view=o365-worldwide#additional-details-for-suggested-candidate-for-copilot" target="_blank">Learn more.</a>
+  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness#additional-details-for-suggested-candidate-for-copilot" target="_blank">Learn more.</a>
 ### Microsoft 365 Copilot
 - **AI-generated Images with Copilot and Microsoft Designer** [Windows, Web, Mac]  
   Microsoft Designer integration in Copilot chat allows you to generate that perfect image, providing limitless creativity and bringing your presentations to life. <a href="https://support.microsoft.com/topic/6cd168f3-1cf0-478e-bd75-31d6526d2504" target="_blank">Learn more.</a>
@@ -248,7 +248,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Copilot can now reason over data ranges with a single row of headers, even if they aren't formatted as formal tables. This makes data analysis more flexible.
 ### Microsoft 365 admin center
 - **Gain visibility into Copilot Graph-grounded chat usage** [Web]  
-  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage?view=o365-worldwide" target="_blank">Learn more.</a>
+  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage" target="_blank">Learn more.</a>
 ### Microsoft Loop
 - **Copilot-Assisted Loop Page Creation** [Web]  
   Collaborate with Copilot to create structured Loop pages quickly. Start from scratch or modify existing pages or templates with AI assistance for efficient teamwork.
@@ -462,7 +462,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## December, 2023
 ### Microsoft 365 admin center
 - **Track Copilot readiness and usage across Microsoft 365** [Web]  
-  Easily assess your organization’s technical eligibility, license assignment, and active usage of Microsoft 365 Copilot. Understand which apps drive engagement, monitor trends over time, and use these insights to guide licensing and adoption strategy decisions. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness?view=o365-worldwide" target="_blank">Learn more.</a>
+  Easily assess your organization’s technical eligibility, license assignment, and active usage of Microsoft 365 Copilot. Understand which apps drive engagement, monitor trends over time, and use these insights to guide licensing and adoption strategy decisions. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness" target="_blank">Learn more.</a>
 ### Word
 - **Visualize as table** [Mac]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling. <a href="https://support.microsoft.com/topic/923d9763-f896-4da7-8a3f-5b12c3bfc475" target="_blank">Learn more.</a>
@@ -992,7 +992,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Copilot in Excel, now no longer in Preview but Generally Available, works alongside you to analyze and explore your data, answering questions in natural language and revealing insights without the need for complex formulas. <a href="https://support.microsoft.com/topic/d7110502-0334-4b4f-a175-a73abdfc118a" target="_blank">Learn more.</a>
 ### Microsoft 365 admin center
 - **Identify suggested candidates for Copilot licensing** [Web]  
-  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness?view=o365-worldwide#additional-details-for-suggested-candidate-for-copilot" target="_blank">Learn more.</a>
+  Improve license assignment decisions and maximize Microsoft 365 Copilot adoption. In the Microsoft 365 Copilot usage report readiness section, a new “Suggested Candidates” column helps you assign licenses to users who are most likely get the most value for Microsoft 365 Copilot, based on factors such as usage of relevant Microsoft 365 apps. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness#additional-details-for-suggested-candidate-for-copilot" target="_blank">Learn more.</a>
 ### Microsoft 365 Copilot
 - **AI-generated Images with Copilot and Microsoft Designer** [Windows, Web, Mac]  
   Microsoft Designer integration in Copilot chat allows you to generate that perfect image, providing limitless creativity and bringing your presentations to life. <a href="https://support.microsoft.com/topic/6cd168f3-1cf0-478e-bd75-31d6526d2504" target="_blank">Learn more.</a>
@@ -1066,7 +1066,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Copilot can now reason over data ranges with a single row of headers, even if they aren't formatted as formal tables. This makes data analysis more flexible.
 ### Microsoft 365 admin center
 - **Gain visibility into Copilot Graph-grounded chat usage** [Web]  
-  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage?view=o365-worldwide" target="_blank">Learn more.</a>
+  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage" target="_blank">Learn more.</a>
 ### Microsoft Loop
 - **Copilot-Assisted Loop Page Creation** [Web]  
   Collaborate with Copilot to create structured Loop pages quickly. Start from scratch or modify existing pages or templates with AI assistance for efficient teamwork.
@@ -1211,7 +1211,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## December, 2023
 ### Microsoft 365 admin center
 - **Track Copilot readiness and usage across Microsoft 365** [Web]  
-  Easily assess your organization’s technical eligibility, license assignment, and active usage of Microsoft 365 Copilot. Understand which apps drive engagement, monitor trends over time, and use these insights to guide licensing and adoption strategy decisions. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness?view=o365-worldwide" target="_blank">Learn more.</a>
+  Easily assess your organization’s technical eligibility, license assignment, and active usage of Microsoft 365 Copilot. Understand which apps drive engagement, monitor trends over time, and use these insights to guide licensing and adoption strategy decisions. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-readiness" target="_blank">Learn more.</a>
 ## November, 2023
 ### Business Chat
 - **Access Microsoft 365 Copilot Business Chat on Microsoft365.com** [Windows, Web]  
