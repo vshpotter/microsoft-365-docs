@@ -37,11 +37,11 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Microsoft 365 Copilot GCC general availability** [Windows, Web]  
   Your AI assistant for work in the GCC (Government Community Cloud) environment. It combines the power of large language models (LLMs) with your work content and context, to help you draft and rewrite, summarize and organize, catch up on what you missed, and get answers to questions via prompts. <a href="https://aka.ms/M365CopilotGCCBlog" target="_blank">Learn more.</a>
 ### Microsoft Purview
-- **eDiscovery - Generate keyword query language from natural language prompt in eDiscovery with Copilot for Security** [Web]  
+- **Generate keyword query language from natural language prompt in eDiscovery with Copilot for Security** [Web]  
   Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search. <a href="https://learn.microsoft.com/purview/ediscovery-natural-language-query" target="_blank">Learn more.</a>
 ### OneNote
 - **Use Copilot in OneNote on Mac and iPad** [iOS, Mac]  
-  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. <a href="https://support.microsoft.com/en-us/office/welcome-to-copilot-in-onenote-34b30802-02ae-4676-a88c-82f8d5e586dd" target="_blank">Learn more.</a>
+  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. <a href="https://support.microsoft.com/office/welcome-to-copilot-in-onenote-34b30802-02ae-4676-a88c-82f8d5e586dd" target="_blank">Learn more.</a>
 ### PowerPoint
 - **Ask Copilot about visuals while in PowerPoint** [Windows, Web]  
   Now you can add an image to your chat with Copilot. You can ask questions about the image, extract text, get a description of a chart, translate information, or generate alt text. This helps you stay in the flow of work while getting necessary information to continue working on your document.
@@ -114,7 +114,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Select from conversation starter prompts to begin using an agent quickly and effortlessly. <a href="https://support.microsoft.com/topic/169469d7-328d-4d37-9090-bfc2058a39bd" target="_blank">Learn more.</a>
 ### Microsoft Teams
 - **Empower meeting organizers to adjust Copilot availability** [Windows, Android, iOS, Mac]  
-  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 ### Outlook
 - **Rewrite selected text in emails using Copilot** [Windows, Web, Android, iOS, Mac]  
   Select specific parts of your drafted email and ask Copilot in new Outlook to rewrite it or provide more information to rewrite it. Provide detailed instructions or adjust the tone and length to suit your needs.
@@ -138,7 +138,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## September, 2024
 ### Business Chat
 - **Access Business Chat work mode in Microsoft 365 app on mobile** [Android, iOS]  
-  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app. <a href="https://support.microsoft.com/en-us/topic/boost-your-productivity-with-the-microsoft-365-app-24bd7d62-f3c7-47d8-8cce-ee78edc018d4" target="_blank">Learn more.</a>
+  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app. <a href="https://support.microsoft.com/topic/boost-your-productivity-with-the-microsoft-365-app-24bd7d62-f3c7-47d8-8cce-ee78edc018d4" target="_blank">Learn more.</a>
 - **Convert Microsoft 365 Copilot Business Chat conversations into shareable pages** [Web]  
   Transform Business Chat Copilot responses in work mode into editable and shareable pages, so you can easily access and distribute important information.
 - **Generate images in Microsoft 365 Copilot Business Chat** [Web]  
@@ -234,7 +234,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## July, 2024
 ### Business Chat
 - **Access cloud files via Context IQ in Business Chat** [Web]  
-  Easily include relevant documents in your chats with Context IQ suggestions. Now access "Browse Cloud Files" from the "Attach Cloud Files" button. <a href="https://support.microsoft.com/en-us/topic/using-context-iq-to-refer-to-specific-files-people-and-more-in-microsoft-365-copilot-272ac2c1-c5f7-49c9-8a42-2a8a87846fa0" target="_blank">Learn more.</a>
+  Easily include relevant documents in your chats with Context IQ suggestions. Now access "Browse Cloud Files" from the "Attach Cloud Files" button. <a href="https://support.microsoft.com/topic/using-context-iq-to-refer-to-specific-files-people-and-more-in-microsoft-365-copilot-272ac2c1-c5f7-49c9-8a42-2a8a87846fa0" target="_blank">Learn more.</a>
 ### Excel
 - **Advanced conditional formatting with Copilot** [Windows, Web, iOS, Mac]  
   Copilot now supports complex conditional formatting, such as highlighting rows based on multiple criteria. Enhance your data visualization with more formulaic formatting options.
@@ -286,7 +286,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Copilot in Forms now suggests the best distribution channels and settings when sending out forms or quizzes. Reach your audience more effectively and increase engagement.
 ### Microsoft Teams
 - **Admins can enforce Copilot during and after meetings** [Windows, Android, iOS, Mac]  
-  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 - **Control access to recordings and transcripts** [Windows, Android, iOS, Mac]  
   Introducing new meeting settings that allow you to control who can access recordings, transcripts, and prompt Copilot. Enhance your meeting security and privacy with these granular controls.
 - **Intelligent Recap available for Copilot users** [Windows, Mac]  
@@ -628,7 +628,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Select from conversation starter prompts to begin using an agent quickly and effortlessly. <a href="https://support.microsoft.com/topic/169469d7-328d-4d37-9090-bfc2058a39bd" target="_blank">Learn more.</a>
 ### Microsoft Teams
 - **Empower meeting organizers to adjust Copilot availability** [Windows, Android, iOS, Mac]  
-  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 ### Outlook
 - **Rewrite selected text in emails using Copilot** [Windows, Web, Android, iOS, Mac]  
   Select specific parts of your drafted email and ask Copilot in new Outlook to rewrite it or provide more information to rewrite it. Provide detailed instructions or adjust the tone and length to suit your needs.
@@ -729,7 +729,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Copilot now enables the edit box on any worksheet, regardless of selection. It intelligently finds the nearest table or data range for your analysis queries, making data manipulation more flexible.
 ### Microsoft Teams
 - **Admins can enforce Copilot during and after meetings** [Windows, Android, iOS, Mac]  
-  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 - **Control access to recordings and transcripts** [Windows, Android, iOS, Mac]  
   Introducing new meeting settings that allow you to control who can access recordings, transcripts, and prompt Copilot. Enhance your meeting security and privacy with these granular controls.
 - **Intelligent Recap available for Copilot users** [Windows, Mac]  
@@ -1052,7 +1052,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## July, 2024
 ### Business Chat
 - **Access cloud files via Context IQ in Business Chat** [Web]  
-  Easily include relevant documents in your chats with Context IQ suggestions. Now access "Browse Cloud Files" from the "Attach Cloud Files" button. <a href="https://support.microsoft.com/en-us/topic/using-context-iq-to-refer-to-specific-files-people-and-more-in-microsoft-365-copilot-272ac2c1-c5f7-49c9-8a42-2a8a87846fa0" target="_blank">Learn more.</a>
+  Easily include relevant documents in your chats with Context IQ suggestions. Now access "Browse Cloud Files" from the "Attach Cloud Files" button. <a href="https://support.microsoft.com/topic/using-context-iq-to-refer-to-specific-files-people-and-more-in-microsoft-365-copilot-272ac2c1-c5f7-49c9-8a42-2a8a87846fa0" target="_blank">Learn more.</a>
 ### Excel
 - **Advanced conditional formatting with Copilot** [Windows, Web, iOS, Mac]  
   Copilot now supports complex conditional formatting, such as highlighting rows based on multiple criteria. Enhance your data visualization with more formulaic formatting options.
@@ -1318,14 +1318,14 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Microsoft 365 Copilot now supports 12 additional languages across all features: Bulgarian, Croatian, Estonian, Greek, Indonesian, Latvian, Lithuanian, Romanian, Serbian (Latin), Slovak, Slovenian, and Vietnamese. Microsoft 365 Copilot also improved the handling of language variants: Dutch (Belgium), German (Switzerland), English (UK), Spanish (Mexico), and French (Canada). <a href="https://support.microsoft.com/office/supported-languages-for-microsoft-copilot-94518d61-644b-4118-9492-617eea4801d8" target="_blank">Learn more.</a>
 ### Microsoft Teams
 - **Empower meeting organizers to adjust Copilot availability** [Windows, Android, iOS, Mac]  
-  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 ### Outlook
 - **Rewrite selected text in emails using Copilot** [Windows, Web, Android, iOS, Mac]  
   Select specific parts of your drafted email and ask Copilot in new Outlook to rewrite it or provide more information to rewrite it. Provide detailed instructions or adjust the tone and length to suit your needs.
 ## September, 2024
 ### Business Chat
 - **Access Business Chat work mode in Microsoft 365 app on mobile** [Android, iOS]  
-  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app. <a href="https://support.microsoft.com/en-us/topic/boost-your-productivity-with-the-microsoft-365-app-24bd7d62-f3c7-47d8-8cce-ee78edc018d4" target="_blank">Learn more.</a>
+  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app. <a href="https://support.microsoft.com/topic/boost-your-productivity-with-the-microsoft-365-app-24bd7d62-f3c7-47d8-8cce-ee78edc018d4" target="_blank">Learn more.</a>
 ### Outlook
 - **Instantly apply coaching suggestions from Copilot to your emails** [Web, Android, iOS, Mac]  
   Improve your email writing with Coaching by Copilot in new Outlook. Request a full rewrite based on Copilot's feedback or apply the suggestions with a single click. <a href="https://support.microsoft.com/topic/91a3cd56-1586-4a31-85c7-2eb8cdb02405" target="_blank">Learn more.</a>
@@ -1351,7 +1351,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## June, 2024
 ### Microsoft Teams
 - **Admins can enforce Copilot during and after meetings** [Windows, Android, iOS, Mac]  
-  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 - **Control access to recordings and transcripts** [Windows, Android, iOS, Mac]  
   Introducing new meeting settings that allow you to control who can access recordings, transcripts, and prompt Copilot. Enhance your meeting security and privacy with these granular controls.
 ## May, 2024
@@ -1410,7 +1410,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## December, 2024
 ### OneNote
 - **Use Copilot in OneNote on Mac and iPad** [iOS, Mac]  
-  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. <a href="https://support.microsoft.com/en-us/office/welcome-to-copilot-in-onenote-34b30802-02ae-4676-a88c-82f8d5e586dd" target="_blank">Learn more.</a>
+  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. <a href="https://support.microsoft.com/office/welcome-to-copilot-in-onenote-34b30802-02ae-4676-a88c-82f8d5e586dd" target="_blank">Learn more.</a>
 ## November, 2024
 ### Business Chat
 - **Focus Copilot responses on specific emails in Business Chat** [Windows, Web, Android, iOS, Mac]  
@@ -1424,7 +1424,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Microsoft 365 Copilot now supports 12 additional languages across all features: Bulgarian, Croatian, Estonian, Greek, Indonesian, Latvian, Lithuanian, Romanian, Serbian (Latin), Slovak, Slovenian, and Vietnamese. Microsoft 365 Copilot also improved the handling of language variants: Dutch (Belgium), German (Switzerland), English (UK), Spanish (Mexico), and French (Canada). <a href="https://support.microsoft.com/office/supported-languages-for-microsoft-copilot-94518d61-644b-4118-9492-617eea4801d8" target="_blank">Learn more.</a>
 ### Microsoft Teams
 - **Empower meeting organizers to adjust Copilot availability** [Windows, Android, iOS, Mac]  
-  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 ### Outlook
 - **Rewrite selected text in emails using Copilot** [Windows, Web, Android, iOS, Mac]  
   Select specific parts of your drafted email and ask Copilot in new Outlook to rewrite it or provide more information to rewrite it. Provide detailed instructions or adjust the tone and length to suit your needs.
@@ -1434,7 +1434,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## September, 2024
 ### Business Chat
 - **Access Business Chat work mode in Microsoft 365 app on mobile** [Android, iOS]  
-  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app. <a href="https://support.microsoft.com/en-us/topic/boost-your-productivity-with-the-microsoft-365-app-24bd7d62-f3c7-47d8-8cce-ee78edc018d4" target="_blank">Learn more.</a>
+  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app. <a href="https://support.microsoft.com/topic/boost-your-productivity-with-the-microsoft-365-app-24bd7d62-f3c7-47d8-8cce-ee78edc018d4" target="_blank">Learn more.</a>
 ### Excel
 - **Copilot in Excel is generally available** [Windows, Web, iOS, Mac]  
   Copilot in Excel, now no longer in Preview but Generally Available, works alongside you to analyze and explore your data, answering questions in natural language and revealing insights without the need for complex formulas. <a href="https://support.microsoft.com/topic/d7110502-0334-4b4f-a175-a73abdfc118a" target="_blank">Learn more.</a>
@@ -1505,7 +1505,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Copilot now enables the edit box on any worksheet, regardless of selection. It intelligently finds the nearest table or data range for your analysis queries, making data manipulation more flexible.
 ### Microsoft Teams
 - **Admins can enforce Copilot during and after meetings** [Windows, Android, iOS, Mac]  
-  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 - **Control access to recordings and transcripts** [Windows, Android, iOS, Mac]  
   Introducing new meeting settings that allow you to control who can access recordings, transcripts, and prompt Copilot. Enhance your meeting security and privacy with these granular controls.
 ### PowerPoint
@@ -1626,7 +1626,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## December, 2024
 ### OneNote
 - **Use Copilot in OneNote on Mac and iPad** [iOS, Mac]  
-  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. <a href="https://support.microsoft.com/en-us/office/welcome-to-copilot-in-onenote-34b30802-02ae-4676-a88c-82f8d5e586dd" target="_blank">Learn more.</a>
+  Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. <a href="https://support.microsoft.com/office/welcome-to-copilot-in-onenote-34b30802-02ae-4676-a88c-82f8d5e586dd" target="_blank">Learn more.</a>
 ## November, 2024
 ### Business Chat
 - **Focus Copilot responses on specific emails in Business Chat** [Windows, Web, Android, iOS, Mac]  
@@ -1643,7 +1643,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Microsoft 365 Copilot now supports 12 additional languages across all features: Bulgarian, Croatian, Estonian, Greek, Indonesian, Latvian, Lithuanian, Romanian, Serbian (Latin), Slovak, Slovenian, and Vietnamese. Microsoft 365 Copilot also improved the handling of language variants: Dutch (Belgium), German (Switzerland), English (UK), Spanish (Mexico), and French (Canada). <a href="https://support.microsoft.com/office/supported-languages-for-microsoft-copilot-94518d61-644b-4118-9492-617eea4801d8" target="_blank">Learn more.</a>
 ### Microsoft Teams
 - **Empower meeting organizers to adjust Copilot availability** [Windows, Android, iOS, Mac]  
-  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can now set Copilot in Teams meetings to  'During and After Meeting' and allow meeting organizers to change it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 ### Outlook
 - **Rewrite selected text in emails using Copilot** [Windows, Web, Android, iOS, Mac]  
   Select specific parts of your drafted email and ask Copilot in new Outlook to rewrite it or provide more information to rewrite it. Provide detailed instructions or adjust the tone and length to suit your needs.
@@ -1734,7 +1734,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Copilot now enables the edit box on any worksheet, regardless of selection. It intelligently finds the nearest table or data range for your analysis queries, making data manipulation more flexible.
 ### Microsoft Teams
 - **Admins can enforce Copilot during and after meetings** [Windows, Android, iOS, Mac]  
-  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/en-us/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
+  Admins can set Copilot in Teams meetings to  'During and After Meeting' and prevent meeting organizers from changing it. <a href="https://learn.microsoft.com/microsoftteams/copilot-teams-transcription" target="_blank">Learn more.</a>
 - **Control access to recordings and transcripts** [Windows, Android, iOS, Mac]  
   Introducing new meeting settings that allow you to control who can access recordings, transcripts, and prompt Copilot. Enhance your meeting security and privacy with these granular controls.
 - **Intelligent Recap available for Copilot users** [Windows, Mac]  
