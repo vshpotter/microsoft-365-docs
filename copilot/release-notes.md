@@ -36,6 +36,9 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Microsoft 365 Copilot
 - **Microsoft 365 Copilot GCC general availability** [Windows, Web]  
   Your AI assistant for work in the GCC (Government Community Cloud) environment. It combines the power of large language models (LLMs) with your work content and context, to help you draft and rewrite, summarize and organize, catch up on what you missed, and get answers to questions via prompts. <a href="https://aka.ms/M365CopilotGCCBlog" target="_blank">Learn more.</a>
+### Microsoft Purview
+- **eDiscovery - Generate keyword query language from natural language prompt in eDiscovery with Copilot for Security** [Web]  
+  Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search. <a href="https://learn.microsoft.com/purview/ediscovery-natural-language-query" target="_blank">Learn more.</a>
 ### OneNote
 - **Use Copilot in OneNote on Mac and iPad** [iOS, Mac]  
   Experience the power of Copilot across OneNote for Mac and iPad. Quickly summarize, rewrite, and understand your notes, whether at your desk or on the go. <a href="https://support.microsoft.com/en-us/office/welcome-to-copilot-in-onenote-34b30802-02ae-4676-a88c-82f8d5e586dd" target="_blank">Learn more.</a>
@@ -420,9 +423,6 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Microsoft 365 admin center
 - **Send Copilot welcome emails when assigning licenses to users** [Web]  
   Help users get started with Copilot faster. When assigning Microsoft 365 Copilot licenses, you can now send users a welcome email containing helpful resources and tips to maximize their Copilot experience.
-### Microsoft Purview
-- **Microsoft Purview Data Security Posture Management for AI** [Web]  
-  Microsoft Purview Data Security Posture Management for AI (DSPM for AI) is a centralized location to gain insights into generative AI activity including the sensitive data flowing in AI prompts - for Microsoft 365 Copilot, Microsoft Copilot Studio, and non-Microsoft AI applications.
 ### Microsoft Teams
 - **Customize your draft message when you compose with Copilot** [Windows, Android, iOS, Mac]  
   You can now instruct Copilot to adjust your draft message however you'd like. Adjust the message with a custom prompt, like “add a call to action” or “make it persuasive". <a href="https://support.microsoft.com/office/rewrite-and-adjust-your-messages-with-copilot-in-microsoft-teams-53315d9c-93be-45ab-9004-2f8205725cc7" target="_blank">Learn more.</a>
@@ -911,6 +911,9 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Microsoft 365 Copilot
 - **Microsoft 365 Copilot GCC general availability** [Windows, Web]  
   Your AI assistant for work in the GCC (Government Community Cloud) environment. It combines the power of large language models (LLMs) with your work content and context, to help you draft and rewrite, summarize and organize, catch up on what you missed, and get answers to questions via prompts. <a href="https://aka.ms/M365CopilotGCCBlog" target="_blank">Learn more.</a>
+### Microsoft Purview
+- **eDiscovery - Generate keyword query language from natural language prompt in eDiscovery with Copilot for Security** [Web]  
+  Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search. <a href="https://learn.microsoft.com/purview/ediscovery-natural-language-query" target="_blank">Learn more.</a>
 ### PowerPoint
 - **Ask Copilot about visuals while in PowerPoint** [Windows, Web]  
   Now you can add an image to your chat with Copilot. You can ask questions about the image, extract text, get a description of a chart, translate information, or generate alt text. This helps you stay in the flow of work while getting necessary information to continue working on your document.
@@ -1191,9 +1194,6 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Microsoft 365 admin center
 - **Send Copilot welcome emails when assigning licenses to users** [Web]  
   Help users get started with Copilot faster. When assigning Microsoft 365 Copilot licenses, you can now send users a welcome email containing helpful resources and tips to maximize their Copilot experience.
-### Microsoft Purview
-- **Microsoft Purview Data Security Posture Management for AI** [Web]  
-  Microsoft Purview Data Security Posture Management for AI (DSPM for AI) is a centralized location to gain insights into generative AI activity including the sensitive data flowing in AI prompts - for Microsoft 365 Copilot, Microsoft Copilot Studio, and non-Microsoft AI applications.
 ### Word
 - **Share Word documents with AI summaries** [Web]  
   Include an AI-generated document summary when sharing Word documents. Recipients get a rich preview, aiding quicker understanding and collaboration.
@@ -1852,3 +1852,4 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Access chat while in Viewing mode to ask questions about the document's content without switching to Editing mode, improving your reading experience. <a href="https://support.microsoft.com/topic/4482c688-a495-4571-bfcd-4a9fc6608090" target="_blank">Learn more.</a>
 - **Use voice prompts for assistance** [Windows, Web, Mac]  
   Use voice to dictate into the Copilot chat prompt field
+
