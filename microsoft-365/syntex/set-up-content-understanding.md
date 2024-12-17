@@ -1,5 +1,5 @@
 ---
-title: Set up Microsoft Syntex per-user licensing
+title: Assign existing Microsoft Syntex per-user licenses
 ms.author: chucked
 author: chuckedmonson
 ms.reviewer: ssquires, kkameth
@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 description: Set up Microsoft Syntex per-user licensing.
 ---
 
-# Set up Microsoft Syntex per-user licensing
+# Assign existing Microsoft Syntex per-user licenses
 
 > [!NOTE]
 > As of July 1, 2023, per-user licenses are no longer available for purchase. You will need to [set up pay-as-you-go billing](syntex-azure-billing.md).<br><br>
